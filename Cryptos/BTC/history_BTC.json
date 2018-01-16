@@ -1,0 +1,32 @@
+[
+    {
+        "cryptoCurrency": "BTC",
+        "cryptoValue": 0.999999999999,
+        "cryptoTimestamp": "2017-08-10 20:21:00"
+    },
+    {
+        "cryptoCurrency": "BTC",
+        "cryptoValue": 0.999999999999,
+        "cryptoTimestamp": "2017-08-10 20:21:00"
+    },
+    {
+        "cryptoCurrency": "BTC",
+        "cryptoValue": 0.999999999999,
+        "cryptoTimestamp": "2017-08-10 21:06:00"
+    },
+    {
+        "cryptoCurrency": "BTC",
+        "cryptoValue": 0.999999999999,
+        "cryptoTimestamp": "2017-08-10 21:06:00"
+    },
+    {
+        "cryptoCurrency": "BTC",
+        "cryptoValue": 0.999999999999,
+        "cryptoTimestamp": "2017-08-10 21:10:00"
+    },
+    {
+        "cryptoCurrency": "BTC",
+        "cryptoValue": 0.999999999999,
+        "cryptoTimestamp": "2017-08-10 21:10:00"
+    }
+]
