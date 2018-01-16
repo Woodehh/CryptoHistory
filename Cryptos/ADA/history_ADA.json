@@ -157788,5 +157788,10 @@
         "cryptoCurrency": "ADA",
         "cryptoValue": 5.004e-5,
         "cryptoTimestamp": "2018-01-16 22:40:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.03e-5,
+        "cryptoTimestamp": "2018-01-16 22:45:00"
     }
 ]
