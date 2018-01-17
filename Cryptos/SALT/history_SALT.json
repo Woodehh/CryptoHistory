@@ -132713,5 +132713,1520 @@
         "cryptoCurrency": "SALT",
         "cryptoValue": 0.00066326,
         "cryptoTimestamp": "2018-01-16 23:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00066326,
+        "cryptoTimestamp": "2018-01-16 23:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00066,
+        "cryptoTimestamp": "2018-01-16 23:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00065885,
+        "cryptoTimestamp": "2018-01-16 23:35:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00065008,
+        "cryptoTimestamp": "2018-01-16 23:40:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00065441,
+        "cryptoTimestamp": "2018-01-16 23:45:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00065877,
+        "cryptoTimestamp": "2018-01-16 23:50:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00065842,
+        "cryptoTimestamp": "2018-01-16 23:55:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00065842,
+        "cryptoTimestamp": "2018-01-17 00:00:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00067693,
+        "cryptoTimestamp": "2018-01-17 00:05:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000674,
+        "cryptoTimestamp": "2018-01-17 00:10:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00068917,
+        "cryptoTimestamp": "2018-01-17 00:15:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069699,
+        "cryptoTimestamp": "2018-01-17 00:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069699,
+        "cryptoTimestamp": "2018-01-17 00:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00067746,
+        "cryptoTimestamp": "2018-01-17 00:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069464,
+        "cryptoTimestamp": "2018-01-17 00:35:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069726,
+        "cryptoTimestamp": "2018-01-17 00:40:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00070001,
+        "cryptoTimestamp": "2018-01-17 00:45:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071101,
+        "cryptoTimestamp": "2018-01-17 00:50:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072677,
+        "cryptoTimestamp": "2018-01-17 00:55:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072677,
+        "cryptoTimestamp": "2018-01-17 01:00:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000725,
+        "cryptoTimestamp": "2018-01-17 01:05:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072492,
+        "cryptoTimestamp": "2018-01-17 01:10:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071895,
+        "cryptoTimestamp": "2018-01-17 01:15:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071889,
+        "cryptoTimestamp": "2018-01-17 01:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071888,
+        "cryptoTimestamp": "2018-01-17 01:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071,
+        "cryptoTimestamp": "2018-01-17 01:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071,
+        "cryptoTimestamp": "2018-01-17 01:35:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071,
+        "cryptoTimestamp": "2018-01-17 01:40:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00070442,
+        "cryptoTimestamp": "2018-01-17 01:45:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071846,
+        "cryptoTimestamp": "2018-01-17 01:50:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00070475,
+        "cryptoTimestamp": "2018-01-17 01:55:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071837,
+        "cryptoTimestamp": "2018-01-17 02:00:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072,
+        "cryptoTimestamp": "2018-01-17 02:05:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.0007201,
+        "cryptoTimestamp": "2018-01-17 02:10:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072481,
+        "cryptoTimestamp": "2018-01-17 02:15:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071656,
+        "cryptoTimestamp": "2018-01-17 02:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072663,
+        "cryptoTimestamp": "2018-01-17 02:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072999,
+        "cryptoTimestamp": "2018-01-17 02:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072998,
+        "cryptoTimestamp": "2018-01-17 02:35:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072492,
+        "cryptoTimestamp": "2018-01-17 02:40:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072655,
+        "cryptoTimestamp": "2018-01-17 02:45:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00073501,
+        "cryptoTimestamp": "2018-01-17 02:50:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00073351,
+        "cryptoTimestamp": "2018-01-17 02:55:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00073457,
+        "cryptoTimestamp": "2018-01-17 03:00:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000733,
+        "cryptoTimestamp": "2018-01-17 03:05:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000727,
+        "cryptoTimestamp": "2018-01-17 03:10:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00073442,
+        "cryptoTimestamp": "2018-01-17 03:15:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00073454,
+        "cryptoTimestamp": "2018-01-17 03:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00073457,
+        "cryptoTimestamp": "2018-01-17 03:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.0007362,
+        "cryptoTimestamp": "2018-01-17 03:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00074296,
+        "cryptoTimestamp": "2018-01-17 03:35:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000743,
+        "cryptoTimestamp": "2018-01-17 03:40:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00074327,
+        "cryptoTimestamp": "2018-01-17 03:45:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00073883,
+        "cryptoTimestamp": "2018-01-17 03:50:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072354,
+        "cryptoTimestamp": "2018-01-17 03:55:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00073457,
+        "cryptoTimestamp": "2018-01-17 04:00:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071412,
+        "cryptoTimestamp": "2018-01-17 04:05:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072461,
+        "cryptoTimestamp": "2018-01-17 04:10:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072491,
+        "cryptoTimestamp": "2018-01-17 04:15:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00073049,
+        "cryptoTimestamp": "2018-01-17 04:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072781,
+        "cryptoTimestamp": "2018-01-17 04:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072019,
+        "cryptoTimestamp": "2018-01-17 04:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071601,
+        "cryptoTimestamp": "2018-01-17 04:35:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069941,
+        "cryptoTimestamp": "2018-01-17 04:40:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069737,
+        "cryptoTimestamp": "2018-01-17 04:45:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.0006973,
+        "cryptoTimestamp": "2018-01-17 04:50:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069726,
+        "cryptoTimestamp": "2018-01-17 04:55:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069702,
+        "cryptoTimestamp": "2018-01-17 05:00:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069646,
+        "cryptoTimestamp": "2018-01-17 05:05:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.0007038,
+        "cryptoTimestamp": "2018-01-17 05:10:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072072,
+        "cryptoTimestamp": "2018-01-17 05:15:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071987,
+        "cryptoTimestamp": "2018-01-17 05:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072084,
+        "cryptoTimestamp": "2018-01-17 05:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071,
+        "cryptoTimestamp": "2018-01-17 05:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071987,
+        "cryptoTimestamp": "2018-01-17 05:35:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071971,
+        "cryptoTimestamp": "2018-01-17 05:40:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071974,
+        "cryptoTimestamp": "2018-01-17 05:45:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071006,
+        "cryptoTimestamp": "2018-01-17 05:50:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071223,
+        "cryptoTimestamp": "2018-01-17 05:55:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072085,
+        "cryptoTimestamp": "2018-01-17 06:00:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071414,
+        "cryptoTimestamp": "2018-01-17 06:05:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072086,
+        "cryptoTimestamp": "2018-01-17 06:10:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072084,
+        "cryptoTimestamp": "2018-01-17 06:15:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072799,
+        "cryptoTimestamp": "2018-01-17 06:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072775,
+        "cryptoTimestamp": "2018-01-17 06:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072982,
+        "cryptoTimestamp": "2018-01-17 06:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00073049,
+        "cryptoTimestamp": "2018-01-17 06:35:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000728,
+        "cryptoTimestamp": "2018-01-17 06:40:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00073048,
+        "cryptoTimestamp": "2018-01-17 06:45:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00073449,
+        "cryptoTimestamp": "2018-01-17 06:50:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.0007286,
+        "cryptoTimestamp": "2018-01-17 06:55:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00073299,
+        "cryptoTimestamp": "2018-01-17 07:00:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000729,
+        "cryptoTimestamp": "2018-01-17 07:05:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072775,
+        "cryptoTimestamp": "2018-01-17 07:10:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000733,
+        "cryptoTimestamp": "2018-01-17 07:15:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00073299,
+        "cryptoTimestamp": "2018-01-17 07:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00073761,
+        "cryptoTimestamp": "2018-01-17 07:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00074518,
+        "cryptoTimestamp": "2018-01-17 07:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00074437,
+        "cryptoTimestamp": "2018-01-17 07:35:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071723,
+        "cryptoTimestamp": "2018-01-17 07:40:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00073254,
+        "cryptoTimestamp": "2018-01-17 07:45:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072652,
+        "cryptoTimestamp": "2018-01-17 07:50:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072653,
+        "cryptoTimestamp": "2018-01-17 07:55:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00073451,
+        "cryptoTimestamp": "2018-01-17 08:00:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071029,
+        "cryptoTimestamp": "2018-01-17 08:05:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071846,
+        "cryptoTimestamp": "2018-01-17 08:10:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071716,
+        "cryptoTimestamp": "2018-01-17 08:15:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072717,
+        "cryptoTimestamp": "2018-01-17 08:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072453,
+        "cryptoTimestamp": "2018-01-17 08:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.0007218,
+        "cryptoTimestamp": "2018-01-17 08:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072282,
+        "cryptoTimestamp": "2018-01-17 08:35:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071888,
+        "cryptoTimestamp": "2018-01-17 08:40:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071673,
+        "cryptoTimestamp": "2018-01-17 08:45:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00070003,
+        "cryptoTimestamp": "2018-01-17 08:50:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071098,
+        "cryptoTimestamp": "2018-01-17 08:55:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000704,
+        "cryptoTimestamp": "2018-01-17 09:00:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00070959,
+        "cryptoTimestamp": "2018-01-17 09:05:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00070659,
+        "cryptoTimestamp": "2018-01-17 09:10:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00070937,
+        "cryptoTimestamp": "2018-01-17 09:15:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00070801,
+        "cryptoTimestamp": "2018-01-17 09:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000708,
+        "cryptoTimestamp": "2018-01-17 09:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00070801,
+        "cryptoTimestamp": "2018-01-17 09:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.0007107,
+        "cryptoTimestamp": "2018-01-17 09:35:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071303,
+        "cryptoTimestamp": "2018-01-17 09:40:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071051,
+        "cryptoTimestamp": "2018-01-17 09:45:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071435,
+        "cryptoTimestamp": "2018-01-17 09:50:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000711,
+        "cryptoTimestamp": "2018-01-17 09:55:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071051,
+        "cryptoTimestamp": "2018-01-17 10:00:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071437,
+        "cryptoTimestamp": "2018-01-17 10:05:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071431,
+        "cryptoTimestamp": "2018-01-17 10:10:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071439,
+        "cryptoTimestamp": "2018-01-17 10:15:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071061,
+        "cryptoTimestamp": "2018-01-17 10:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071351,
+        "cryptoTimestamp": "2018-01-17 10:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000715,
+        "cryptoTimestamp": "2018-01-17 10:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000715,
+        "cryptoTimestamp": "2018-01-17 10:35:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000715,
+        "cryptoTimestamp": "2018-01-17 10:40:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000715,
+        "cryptoTimestamp": "2018-01-17 10:45:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071499,
+        "cryptoTimestamp": "2018-01-17 10:50:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00070885,
+        "cryptoTimestamp": "2018-01-17 10:55:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071192,
+        "cryptoTimestamp": "2018-01-17 11:00:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071498,
+        "cryptoTimestamp": "2018-01-17 11:05:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071192,
+        "cryptoTimestamp": "2018-01-17 11:10:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071498,
+        "cryptoTimestamp": "2018-01-17 11:15:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00070803,
+        "cryptoTimestamp": "2018-01-17 11:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00070802,
+        "cryptoTimestamp": "2018-01-17 11:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000708,
+        "cryptoTimestamp": "2018-01-17 11:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000708,
+        "cryptoTimestamp": "2018-01-17 11:35:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000708,
+        "cryptoTimestamp": "2018-01-17 11:40:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00070999,
+        "cryptoTimestamp": "2018-01-17 11:45:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072,
+        "cryptoTimestamp": "2018-01-17 11:50:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000712,
+        "cryptoTimestamp": "2018-01-17 11:55:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.0007082,
+        "cryptoTimestamp": "2018-01-17 12:00:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00070822,
+        "cryptoTimestamp": "2018-01-17 12:05:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071,
+        "cryptoTimestamp": "2018-01-17 12:10:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071567,
+        "cryptoTimestamp": "2018-01-17 12:15:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00070926,
+        "cryptoTimestamp": "2018-01-17 12:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.0007082,
+        "cryptoTimestamp": "2018-01-17 12:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071795,
+        "cryptoTimestamp": "2018-01-17 12:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071793,
+        "cryptoTimestamp": "2018-01-17 12:35:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00070972,
+        "cryptoTimestamp": "2018-01-17 12:40:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00070773,
+        "cryptoTimestamp": "2018-01-17 12:45:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069978,
+        "cryptoTimestamp": "2018-01-17 12:50:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069979,
+        "cryptoTimestamp": "2018-01-17 12:55:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069218,
+        "cryptoTimestamp": "2018-01-17 13:00:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069218,
+        "cryptoTimestamp": "2018-01-17 13:05:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.0006927,
+        "cryptoTimestamp": "2018-01-17 13:10:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.0006967,
+        "cryptoTimestamp": "2018-01-17 13:15:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00070932,
+        "cryptoTimestamp": "2018-01-17 13:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069267,
+        "cryptoTimestamp": "2018-01-17 13:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000695,
+        "cryptoTimestamp": "2018-01-17 13:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069493,
+        "cryptoTimestamp": "2018-01-17 13:35:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069264,
+        "cryptoTimestamp": "2018-01-17 13:40:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069,
+        "cryptoTimestamp": "2018-01-17 13:45:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00068,
+        "cryptoTimestamp": "2018-01-17 13:50:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00068958,
+        "cryptoTimestamp": "2018-01-17 13:55:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.0006923,
+        "cryptoTimestamp": "2018-01-17 14:00:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069182,
+        "cryptoTimestamp": "2018-01-17 14:05:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00068275,
+        "cryptoTimestamp": "2018-01-17 14:10:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00068901,
+        "cryptoTimestamp": "2018-01-17 14:15:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00068291,
+        "cryptoTimestamp": "2018-01-17 14:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069232,
+        "cryptoTimestamp": "2018-01-17 14:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069249,
+        "cryptoTimestamp": "2018-01-17 14:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00068294,
+        "cryptoTimestamp": "2018-01-17 14:35:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069,
+        "cryptoTimestamp": "2018-01-17 14:40:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00067277,
+        "cryptoTimestamp": "2018-01-17 14:45:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00068,
+        "cryptoTimestamp": "2018-01-17 14:50:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00068326,
+        "cryptoTimestamp": "2018-01-17 14:55:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00067658,
+        "cryptoTimestamp": "2018-01-17 15:00:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.0006799,
+        "cryptoTimestamp": "2018-01-17 15:05:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00066984,
+        "cryptoTimestamp": "2018-01-17 15:10:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00066948,
+        "cryptoTimestamp": "2018-01-17 15:15:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00066801,
+        "cryptoTimestamp": "2018-01-17 15:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00066961,
+        "cryptoTimestamp": "2018-01-17 15:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00067345,
+        "cryptoTimestamp": "2018-01-17 15:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00066302,
+        "cryptoTimestamp": "2018-01-17 15:35:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000661,
+        "cryptoTimestamp": "2018-01-17 15:40:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00066007,
+        "cryptoTimestamp": "2018-01-17 15:45:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00066123,
+        "cryptoTimestamp": "2018-01-17 15:50:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00065502,
+        "cryptoTimestamp": "2018-01-17 15:55:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.0006509,
+        "cryptoTimestamp": "2018-01-17 16:00:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00065,
+        "cryptoTimestamp": "2018-01-17 16:05:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00064998,
+        "cryptoTimestamp": "2018-01-17 16:10:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000655,
+        "cryptoTimestamp": "2018-01-17 16:15:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000647,
+        "cryptoTimestamp": "2018-01-17 16:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000644,
+        "cryptoTimestamp": "2018-01-17 16:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000645,
+        "cryptoTimestamp": "2018-01-17 16:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00064466,
+        "cryptoTimestamp": "2018-01-17 16:35:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00064471,
+        "cryptoTimestamp": "2018-01-17 16:40:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00064987,
+        "cryptoTimestamp": "2018-01-17 16:45:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000647,
+        "cryptoTimestamp": "2018-01-17 16:50:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00064728,
+        "cryptoTimestamp": "2018-01-17 16:55:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000647,
+        "cryptoTimestamp": "2018-01-17 17:00:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00064465,
+        "cryptoTimestamp": "2018-01-17 17:05:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00065221,
+        "cryptoTimestamp": "2018-01-17 17:10:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.0006568,
+        "cryptoTimestamp": "2018-01-17 17:15:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00065549,
+        "cryptoTimestamp": "2018-01-17 17:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.0006609,
+        "cryptoTimestamp": "2018-01-17 17:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00066867,
+        "cryptoTimestamp": "2018-01-17 17:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00065731,
+        "cryptoTimestamp": "2018-01-17 17:35:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00065731,
+        "cryptoTimestamp": "2018-01-17 17:40:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00066724,
+        "cryptoTimestamp": "2018-01-17 17:45:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00067135,
+        "cryptoTimestamp": "2018-01-17 17:50:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00067308,
+        "cryptoTimestamp": "2018-01-17 17:55:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00067838,
+        "cryptoTimestamp": "2018-01-17 18:00:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000688,
+        "cryptoTimestamp": "2018-01-17 18:05:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000688,
+        "cryptoTimestamp": "2018-01-17 18:10:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069007,
+        "cryptoTimestamp": "2018-01-17 18:15:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069011,
+        "cryptoTimestamp": "2018-01-17 18:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069011,
+        "cryptoTimestamp": "2018-01-17 18:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069025,
+        "cryptoTimestamp": "2018-01-17 18:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069499,
+        "cryptoTimestamp": "2018-01-17 18:35:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069499,
+        "cryptoTimestamp": "2018-01-17 18:40:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069007,
+        "cryptoTimestamp": "2018-01-17 18:45:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069496,
+        "cryptoTimestamp": "2018-01-17 18:50:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000695,
+        "cryptoTimestamp": "2018-01-17 18:55:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000695,
+        "cryptoTimestamp": "2018-01-17 19:00:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069009,
+        "cryptoTimestamp": "2018-01-17 19:05:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069008,
+        "cryptoTimestamp": "2018-01-17 19:10:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069009,
+        "cryptoTimestamp": "2018-01-17 19:15:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069007,
+        "cryptoTimestamp": "2018-01-17 19:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069007,
+        "cryptoTimestamp": "2018-01-17 19:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069007,
+        "cryptoTimestamp": "2018-01-17 19:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00067506,
+        "cryptoTimestamp": "2018-01-17 19:35:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00067669,
+        "cryptoTimestamp": "2018-01-17 19:40:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00068344,
+        "cryptoTimestamp": "2018-01-17 19:45:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069,
+        "cryptoTimestamp": "2018-01-17 19:50:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00068948,
+        "cryptoTimestamp": "2018-01-17 19:55:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.0006895,
+        "cryptoTimestamp": "2018-01-17 20:00:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00068458,
+        "cryptoTimestamp": "2018-01-17 20:05:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00068937,
+        "cryptoTimestamp": "2018-01-17 20:10:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00068935,
+        "cryptoTimestamp": "2018-01-17 20:15:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00068509,
+        "cryptoTimestamp": "2018-01-17 20:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069864,
+        "cryptoTimestamp": "2018-01-17 20:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069047,
+        "cryptoTimestamp": "2018-01-17 20:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069948,
+        "cryptoTimestamp": "2018-01-17 20:35:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00068785,
+        "cryptoTimestamp": "2018-01-17 20:40:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00068787,
+        "cryptoTimestamp": "2018-01-17 20:45:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00070447,
+        "cryptoTimestamp": "2018-01-17 20:50:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069187,
+        "cryptoTimestamp": "2018-01-17 20:55:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000703,
+        "cryptoTimestamp": "2018-01-17 21:00:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00069506,
+        "cryptoTimestamp": "2018-01-17 21:05:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00070415,
+        "cryptoTimestamp": "2018-01-17 21:10:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00070446,
+        "cryptoTimestamp": "2018-01-17 21:15:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071698,
+        "cryptoTimestamp": "2018-01-17 21:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00070999,
+        "cryptoTimestamp": "2018-01-17 21:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071,
+        "cryptoTimestamp": "2018-01-17 21:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00070545,
+        "cryptoTimestamp": "2018-01-17 21:35:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071706,
+        "cryptoTimestamp": "2018-01-17 21:40:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071679,
+        "cryptoTimestamp": "2018-01-17 21:45:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071999,
+        "cryptoTimestamp": "2018-01-17 21:50:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072,
+        "cryptoTimestamp": "2018-01-17 21:55:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072,
+        "cryptoTimestamp": "2018-01-17 22:00:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072012,
+        "cryptoTimestamp": "2018-01-17 22:05:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072012,
+        "cryptoTimestamp": "2018-01-17 22:10:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072698,
+        "cryptoTimestamp": "2018-01-17 22:15:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072342,
+        "cryptoTimestamp": "2018-01-17 22:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00072355,
+        "cryptoTimestamp": "2018-01-17 22:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.0007191,
+        "cryptoTimestamp": "2018-01-17 22:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000718,
+        "cryptoTimestamp": "2018-01-17 22:35:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00071,
+        "cryptoTimestamp": "2018-01-17 22:40:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.0007235,
+        "cryptoTimestamp": "2018-01-17 22:45:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.0007235,
+        "cryptoTimestamp": "2018-01-17 22:50:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000722,
+        "cryptoTimestamp": "2018-01-17 22:55:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.0007296,
+        "cryptoTimestamp": "2018-01-17 23:00:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00073407,
+        "cryptoTimestamp": "2018-01-17 23:05:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00074895,
+        "cryptoTimestamp": "2018-01-17 23:10:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00074592,
+        "cryptoTimestamp": "2018-01-17 23:15:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00075675,
+        "cryptoTimestamp": "2018-01-17 23:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00076,
+        "cryptoTimestamp": "2018-01-17 23:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00075499,
+        "cryptoTimestamp": "2018-01-17 23:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00076544,
+        "cryptoTimestamp": "2018-01-17 23:35:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000751,
+        "cryptoTimestamp": "2018-01-17 23:40:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00076,
+        "cryptoTimestamp": "2018-01-17 23:45:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00075695,
+        "cryptoTimestamp": "2018-01-17 23:50:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00076547,
+        "cryptoTimestamp": "2018-01-17 23:55:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.000757,
+        "cryptoTimestamp": "2018-01-18 00:00:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00076,
+        "cryptoTimestamp": "2018-01-18 00:05:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00075,
+        "cryptoTimestamp": "2018-01-18 00:10:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00073,
+        "cryptoTimestamp": "2018-01-18 00:15:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00074002,
+        "cryptoTimestamp": "2018-01-18 00:20:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00073502,
+        "cryptoTimestamp": "2018-01-18 00:25:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00073679,
+        "cryptoTimestamp": "2018-01-18 00:30:00"
+    },
+    {
+        "cryptoCurrency": "SALT",
+        "cryptoValue": 0.00074005,
+        "cryptoTimestamp": "2018-01-18 00:35:00"
     }
 ]
