@@ -138893,5 +138893,730 @@
         "cryptoCurrency": "MANA",
         "cryptoValue": 1.2e-5,
         "cryptoTimestamp": "2018-01-18 12:20:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.196e-5,
+        "cryptoTimestamp": "2018-01-18 12:25:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.209e-5,
+        "cryptoTimestamp": "2018-01-18 12:30:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.22e-5,
+        "cryptoTimestamp": "2018-01-18 12:35:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.21e-5,
+        "cryptoTimestamp": "2018-01-18 12:40:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.215e-5,
+        "cryptoTimestamp": "2018-01-18 12:45:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.219e-5,
+        "cryptoTimestamp": "2018-01-18 12:50:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.217e-5,
+        "cryptoTimestamp": "2018-01-18 12:55:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.229e-5,
+        "cryptoTimestamp": "2018-01-18 13:00:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.218e-5,
+        "cryptoTimestamp": "2018-01-18 13:05:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.205e-5,
+        "cryptoTimestamp": "2018-01-18 13:10:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.205e-5,
+        "cryptoTimestamp": "2018-01-18 13:15:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.217e-5,
+        "cryptoTimestamp": "2018-01-18 13:20:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.217e-5,
+        "cryptoTimestamp": "2018-01-18 13:25:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.206e-5,
+        "cryptoTimestamp": "2018-01-18 13:30:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.208e-5,
+        "cryptoTimestamp": "2018-01-18 13:35:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.183e-5,
+        "cryptoTimestamp": "2018-01-18 13:40:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.193e-5,
+        "cryptoTimestamp": "2018-01-18 13:45:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.193e-5,
+        "cryptoTimestamp": "2018-01-18 13:50:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.2e-5,
+        "cryptoTimestamp": "2018-01-18 13:55:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.184e-5,
+        "cryptoTimestamp": "2018-01-18 14:00:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.189e-5,
+        "cryptoTimestamp": "2018-01-18 14:05:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.199e-5,
+        "cryptoTimestamp": "2018-01-18 14:10:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.183e-5,
+        "cryptoTimestamp": "2018-01-18 14:15:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.19e-5,
+        "cryptoTimestamp": "2018-01-18 14:20:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.186e-5,
+        "cryptoTimestamp": "2018-01-18 14:25:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.183e-5,
+        "cryptoTimestamp": "2018-01-18 14:30:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.186e-5,
+        "cryptoTimestamp": "2018-01-18 14:35:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.184e-5,
+        "cryptoTimestamp": "2018-01-18 14:40:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.191e-5,
+        "cryptoTimestamp": "2018-01-18 14:45:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.198e-5,
+        "cryptoTimestamp": "2018-01-18 14:50:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.198e-5,
+        "cryptoTimestamp": "2018-01-18 14:55:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.2e-5,
+        "cryptoTimestamp": "2018-01-18 15:00:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.193e-5,
+        "cryptoTimestamp": "2018-01-18 15:05:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.2e-5,
+        "cryptoTimestamp": "2018-01-18 15:10:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.2e-5,
+        "cryptoTimestamp": "2018-01-18 15:15:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.192e-5,
+        "cryptoTimestamp": "2018-01-18 15:20:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.19e-5,
+        "cryptoTimestamp": "2018-01-18 15:25:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.184e-5,
+        "cryptoTimestamp": "2018-01-18 15:30:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.188e-5,
+        "cryptoTimestamp": "2018-01-18 15:35:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.18e-5,
+        "cryptoTimestamp": "2018-01-18 15:40:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.191e-5,
+        "cryptoTimestamp": "2018-01-18 15:45:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.19e-5,
+        "cryptoTimestamp": "2018-01-18 15:50:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.191e-5,
+        "cryptoTimestamp": "2018-01-18 15:55:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.188e-5,
+        "cryptoTimestamp": "2018-01-18 16:00:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.18e-5,
+        "cryptoTimestamp": "2018-01-18 16:05:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.185e-5,
+        "cryptoTimestamp": "2018-01-18 16:10:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.187e-5,
+        "cryptoTimestamp": "2018-01-18 16:15:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.187e-5,
+        "cryptoTimestamp": "2018-01-18 16:20:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.19e-5,
+        "cryptoTimestamp": "2018-01-18 16:25:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.192e-5,
+        "cryptoTimestamp": "2018-01-18 16:30:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.18e-5,
+        "cryptoTimestamp": "2018-01-18 16:35:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.192e-5,
+        "cryptoTimestamp": "2018-01-18 16:40:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.19e-5,
+        "cryptoTimestamp": "2018-01-18 16:45:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.188e-5,
+        "cryptoTimestamp": "2018-01-18 16:50:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.186e-5,
+        "cryptoTimestamp": "2018-01-18 16:55:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.183e-5,
+        "cryptoTimestamp": "2018-01-18 17:00:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.201e-5,
+        "cryptoTimestamp": "2018-01-18 17:05:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.212e-5,
+        "cryptoTimestamp": "2018-01-18 17:10:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.215e-5,
+        "cryptoTimestamp": "2018-01-18 17:15:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.2e-5,
+        "cryptoTimestamp": "2018-01-18 17:20:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.191e-5,
+        "cryptoTimestamp": "2018-01-18 17:25:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.199e-5,
+        "cryptoTimestamp": "2018-01-18 17:30:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.182e-5,
+        "cryptoTimestamp": "2018-01-18 17:35:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.196e-5,
+        "cryptoTimestamp": "2018-01-18 17:40:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.191e-5,
+        "cryptoTimestamp": "2018-01-18 17:45:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.186e-5,
+        "cryptoTimestamp": "2018-01-18 17:50:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.187e-5,
+        "cryptoTimestamp": "2018-01-18 17:55:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.186e-5,
+        "cryptoTimestamp": "2018-01-18 18:00:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.186e-5,
+        "cryptoTimestamp": "2018-01-18 18:05:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.185e-5,
+        "cryptoTimestamp": "2018-01-18 18:10:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.186e-5,
+        "cryptoTimestamp": "2018-01-18 18:15:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.185e-5,
+        "cryptoTimestamp": "2018-01-18 18:20:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.186e-5,
+        "cryptoTimestamp": "2018-01-18 18:25:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.179e-5,
+        "cryptoTimestamp": "2018-01-18 18:30:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.169e-5,
+        "cryptoTimestamp": "2018-01-18 18:35:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.179e-5,
+        "cryptoTimestamp": "2018-01-18 18:40:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.179e-5,
+        "cryptoTimestamp": "2018-01-18 18:45:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.18e-5,
+        "cryptoTimestamp": "2018-01-18 18:50:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.175e-5,
+        "cryptoTimestamp": "2018-01-18 18:55:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.177e-5,
+        "cryptoTimestamp": "2018-01-18 19:00:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.177e-5,
+        "cryptoTimestamp": "2018-01-18 19:05:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.166e-5,
+        "cryptoTimestamp": "2018-01-18 19:10:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.175e-5,
+        "cryptoTimestamp": "2018-01-18 19:15:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.173e-5,
+        "cryptoTimestamp": "2018-01-18 19:20:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.176e-5,
+        "cryptoTimestamp": "2018-01-18 19:25:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.191e-5,
+        "cryptoTimestamp": "2018-01-18 19:30:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.193e-5,
+        "cryptoTimestamp": "2018-01-18 19:35:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.185e-5,
+        "cryptoTimestamp": "2018-01-18 19:40:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.185e-5,
+        "cryptoTimestamp": "2018-01-18 19:45:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.192e-5,
+        "cryptoTimestamp": "2018-01-18 19:50:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.196e-5,
+        "cryptoTimestamp": "2018-01-18 19:55:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.2e-5,
+        "cryptoTimestamp": "2018-01-18 20:00:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.2e-5,
+        "cryptoTimestamp": "2018-01-18 20:05:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.211e-5,
+        "cryptoTimestamp": "2018-01-18 20:10:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.245e-5,
+        "cryptoTimestamp": "2018-01-18 20:15:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.23e-5,
+        "cryptoTimestamp": "2018-01-18 20:20:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.235e-5,
+        "cryptoTimestamp": "2018-01-18 20:25:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.247e-5,
+        "cryptoTimestamp": "2018-01-18 20:30:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.254e-5,
+        "cryptoTimestamp": "2018-01-18 20:35:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.238e-5,
+        "cryptoTimestamp": "2018-01-18 20:40:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.245e-5,
+        "cryptoTimestamp": "2018-01-18 20:45:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.243e-5,
+        "cryptoTimestamp": "2018-01-18 20:50:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.241e-5,
+        "cryptoTimestamp": "2018-01-18 20:55:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.239e-5,
+        "cryptoTimestamp": "2018-01-18 21:00:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.229e-5,
+        "cryptoTimestamp": "2018-01-18 21:05:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.217e-5,
+        "cryptoTimestamp": "2018-01-18 21:10:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.215e-5,
+        "cryptoTimestamp": "2018-01-18 21:15:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.208e-5,
+        "cryptoTimestamp": "2018-01-18 21:20:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.211e-5,
+        "cryptoTimestamp": "2018-01-18 21:25:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.212e-5,
+        "cryptoTimestamp": "2018-01-18 21:30:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.209e-5,
+        "cryptoTimestamp": "2018-01-18 21:35:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.229e-5,
+        "cryptoTimestamp": "2018-01-18 21:40:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.237e-5,
+        "cryptoTimestamp": "2018-01-18 21:45:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.232e-5,
+        "cryptoTimestamp": "2018-01-18 21:50:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.234e-5,
+        "cryptoTimestamp": "2018-01-18 21:55:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.232e-5,
+        "cryptoTimestamp": "2018-01-18 22:00:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.23e-5,
+        "cryptoTimestamp": "2018-01-18 22:05:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.216e-5,
+        "cryptoTimestamp": "2018-01-18 22:10:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.22e-5,
+        "cryptoTimestamp": "2018-01-18 22:15:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.233e-5,
+        "cryptoTimestamp": "2018-01-18 22:20:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.237e-5,
+        "cryptoTimestamp": "2018-01-18 22:25:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.244e-5,
+        "cryptoTimestamp": "2018-01-18 22:30:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.244e-5,
+        "cryptoTimestamp": "2018-01-18 22:35:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.246e-5,
+        "cryptoTimestamp": "2018-01-18 22:40:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.247e-5,
+        "cryptoTimestamp": "2018-01-18 22:45:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.237e-5,
+        "cryptoTimestamp": "2018-01-18 22:50:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.232e-5,
+        "cryptoTimestamp": "2018-01-18 22:55:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.219e-5,
+        "cryptoTimestamp": "2018-01-18 23:00:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.208e-5,
+        "cryptoTimestamp": "2018-01-18 23:05:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.204e-5,
+        "cryptoTimestamp": "2018-01-18 23:10:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.166e-5,
+        "cryptoTimestamp": "2018-01-18 23:15:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.191e-5,
+        "cryptoTimestamp": "2018-01-18 23:20:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.185e-5,
+        "cryptoTimestamp": "2018-01-18 23:25:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.188e-5,
+        "cryptoTimestamp": "2018-01-18 23:30:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.18e-5,
+        "cryptoTimestamp": "2018-01-18 23:35:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.194e-5,
+        "cryptoTimestamp": "2018-01-18 23:40:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.2e-5,
+        "cryptoTimestamp": "2018-01-18 23:45:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.201e-5,
+        "cryptoTimestamp": "2018-01-18 23:50:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.201e-5,
+        "cryptoTimestamp": "2018-01-18 23:55:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.2e-5,
+        "cryptoTimestamp": "2018-01-19 00:00:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.2e-5,
+        "cryptoTimestamp": "2018-01-19 00:05:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.201e-5,
+        "cryptoTimestamp": "2018-01-19 00:10:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.202e-5,
+        "cryptoTimestamp": "2018-01-19 00:15:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.202e-5,
+        "cryptoTimestamp": "2018-01-19 00:20:00"
+    },
+    {
+        "cryptoCurrency": "MANA",
+        "cryptoValue": 1.2e-5,
+        "cryptoTimestamp": "2018-01-19 00:25:00"
     }
 ]
