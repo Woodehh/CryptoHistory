@@ -121063,5 +121063,720 @@
         "cryptoCurrency": "TIX",
         "cryptoValue": 8.844e-5,
         "cryptoTimestamp": "2018-01-18 00:40:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.089e-5,
+        "cryptoTimestamp": "2018-01-18 00:45:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.954e-5,
+        "cryptoTimestamp": "2018-01-18 00:50:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.026e-5,
+        "cryptoTimestamp": "2018-01-18 00:55:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.194e-5,
+        "cryptoTimestamp": "2018-01-18 01:00:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.839e-5,
+        "cryptoTimestamp": "2018-01-18 01:05:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.719e-5,
+        "cryptoTimestamp": "2018-01-18 01:10:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.008e-5,
+        "cryptoTimestamp": "2018-01-18 01:15:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.035e-5,
+        "cryptoTimestamp": "2018-01-18 01:20:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.635e-5,
+        "cryptoTimestamp": "2018-01-18 01:25:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.115e-5,
+        "cryptoTimestamp": "2018-01-18 01:30:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.011e-5,
+        "cryptoTimestamp": "2018-01-18 01:35:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.011e-5,
+        "cryptoTimestamp": "2018-01-18 01:40:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.011e-5,
+        "cryptoTimestamp": "2018-01-18 01:45:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.091e-5,
+        "cryptoTimestamp": "2018-01-18 01:50:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.011e-5,
+        "cryptoTimestamp": "2018-01-18 01:55:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.116e-5,
+        "cryptoTimestamp": "2018-01-18 02:00:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.908e-5,
+        "cryptoTimestamp": "2018-01-18 02:05:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.955e-5,
+        "cryptoTimestamp": "2018-01-18 02:10:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.908e-5,
+        "cryptoTimestamp": "2018-01-18 02:15:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.908e-5,
+        "cryptoTimestamp": "2018-01-18 02:20:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.056e-5,
+        "cryptoTimestamp": "2018-01-18 02:25:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.965e-5,
+        "cryptoTimestamp": "2018-01-18 02:30:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.99e-5,
+        "cryptoTimestamp": "2018-01-18 02:35:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.996e-5,
+        "cryptoTimestamp": "2018-01-18 02:40:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.99e-5,
+        "cryptoTimestamp": "2018-01-18 02:45:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.018e-5,
+        "cryptoTimestamp": "2018-01-18 02:50:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.895e-5,
+        "cryptoTimestamp": "2018-01-18 02:55:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.053e-5,
+        "cryptoTimestamp": "2018-01-18 03:00:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.12e-5,
+        "cryptoTimestamp": "2018-01-18 03:05:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.1e-5,
+        "cryptoTimestamp": "2018-01-18 03:10:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.12e-5,
+        "cryptoTimestamp": "2018-01-18 03:15:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.18e-5,
+        "cryptoTimestamp": "2018-01-18 03:20:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.124e-5,
+        "cryptoTimestamp": "2018-01-18 03:25:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.121e-5,
+        "cryptoTimestamp": "2018-01-18 03:30:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.942e-5,
+        "cryptoTimestamp": "2018-01-18 03:35:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.807e-5,
+        "cryptoTimestamp": "2018-01-18 03:40:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.021e-5,
+        "cryptoTimestamp": "2018-01-18 03:45:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.059e-5,
+        "cryptoTimestamp": "2018-01-18 03:50:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.06e-5,
+        "cryptoTimestamp": "2018-01-18 03:55:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.891e-5,
+        "cryptoTimestamp": "2018-01-18 04:00:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.129e-5,
+        "cryptoTimestamp": "2018-01-18 04:05:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.129e-5,
+        "cryptoTimestamp": "2018-01-18 04:10:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.154e-5,
+        "cryptoTimestamp": "2018-01-18 04:15:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.306e-5,
+        "cryptoTimestamp": "2018-01-18 04:20:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.302e-5,
+        "cryptoTimestamp": "2018-01-18 04:25:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.306e-5,
+        "cryptoTimestamp": "2018-01-18 04:30:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.304e-5,
+        "cryptoTimestamp": "2018-01-18 04:35:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.102e-5,
+        "cryptoTimestamp": "2018-01-18 04:40:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.11e-5,
+        "cryptoTimestamp": "2018-01-18 04:45:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.0e-5,
+        "cryptoTimestamp": "2018-01-18 04:50:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.102e-5,
+        "cryptoTimestamp": "2018-01-18 04:55:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.079e-5,
+        "cryptoTimestamp": "2018-01-18 05:00:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.071e-5,
+        "cryptoTimestamp": "2018-01-18 05:05:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.068e-5,
+        "cryptoTimestamp": "2018-01-18 05:10:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.063e-5,
+        "cryptoTimestamp": "2018-01-18 05:15:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.064e-5,
+        "cryptoTimestamp": "2018-01-18 05:20:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.071e-5,
+        "cryptoTimestamp": "2018-01-18 05:25:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.999e-5,
+        "cryptoTimestamp": "2018-01-18 05:30:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.3e-5,
+        "cryptoTimestamp": "2018-01-18 05:35:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.907e-5,
+        "cryptoTimestamp": "2018-01-18 05:40:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.756e-5,
+        "cryptoTimestamp": "2018-01-18 05:45:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.944e-5,
+        "cryptoTimestamp": "2018-01-18 05:50:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.05e-5,
+        "cryptoTimestamp": "2018-01-18 05:55:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.05e-5,
+        "cryptoTimestamp": "2018-01-18 06:00:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.042e-5,
+        "cryptoTimestamp": "2018-01-18 06:05:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.878e-5,
+        "cryptoTimestamp": "2018-01-18 06:10:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.715e-5,
+        "cryptoTimestamp": "2018-01-18 06:15:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.74e-5,
+        "cryptoTimestamp": "2018-01-18 06:20:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.738e-5,
+        "cryptoTimestamp": "2018-01-18 06:25:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.737e-5,
+        "cryptoTimestamp": "2018-01-18 06:30:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.738e-5,
+        "cryptoTimestamp": "2018-01-18 06:35:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.738e-5,
+        "cryptoTimestamp": "2018-01-18 06:40:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.738e-5,
+        "cryptoTimestamp": "2018-01-18 06:45:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.725e-5,
+        "cryptoTimestamp": "2018-01-18 06:50:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.726e-5,
+        "cryptoTimestamp": "2018-01-18 06:55:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.727e-5,
+        "cryptoTimestamp": "2018-01-18 07:00:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.727e-5,
+        "cryptoTimestamp": "2018-01-18 07:05:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.903e-5,
+        "cryptoTimestamp": "2018-01-18 07:10:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.044e-5,
+        "cryptoTimestamp": "2018-01-18 07:15:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.044e-5,
+        "cryptoTimestamp": "2018-01-18 07:20:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.884e-5,
+        "cryptoTimestamp": "2018-01-18 07:25:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.884e-5,
+        "cryptoTimestamp": "2018-01-18 07:30:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.027e-5,
+        "cryptoTimestamp": "2018-01-18 07:35:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.853e-5,
+        "cryptoTimestamp": "2018-01-18 07:40:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.85e-5,
+        "cryptoTimestamp": "2018-01-18 07:45:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.79e-5,
+        "cryptoTimestamp": "2018-01-18 07:50:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.79e-5,
+        "cryptoTimestamp": "2018-01-18 07:55:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.957e-5,
+        "cryptoTimestamp": "2018-01-18 08:00:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.105e-5,
+        "cryptoTimestamp": "2018-01-18 08:05:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.232e-5,
+        "cryptoTimestamp": "2018-01-18 08:10:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.224e-5,
+        "cryptoTimestamp": "2018-01-18 08:15:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.15e-5,
+        "cryptoTimestamp": "2018-01-18 08:20:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.15e-5,
+        "cryptoTimestamp": "2018-01-18 08:25:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.848e-5,
+        "cryptoTimestamp": "2018-01-18 08:30:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.88e-5,
+        "cryptoTimestamp": "2018-01-18 08:35:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.96e-5,
+        "cryptoTimestamp": "2018-01-18 08:40:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.8e-5,
+        "cryptoTimestamp": "2018-01-18 08:45:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.74e-5,
+        "cryptoTimestamp": "2018-01-18 08:50:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.74e-5,
+        "cryptoTimestamp": "2018-01-18 08:55:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.582e-5,
+        "cryptoTimestamp": "2018-01-18 09:00:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.581e-5,
+        "cryptoTimestamp": "2018-01-18 09:05:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.715e-5,
+        "cryptoTimestamp": "2018-01-18 09:10:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.868e-5,
+        "cryptoTimestamp": "2018-01-18 09:15:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.868e-5,
+        "cryptoTimestamp": "2018-01-18 09:20:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.785e-5,
+        "cryptoTimestamp": "2018-01-18 09:25:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.785e-5,
+        "cryptoTimestamp": "2018-01-18 09:30:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.785e-5,
+        "cryptoTimestamp": "2018-01-18 09:35:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.917e-5,
+        "cryptoTimestamp": "2018-01-18 09:40:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.828e-5,
+        "cryptoTimestamp": "2018-01-18 09:45:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.007e-5,
+        "cryptoTimestamp": "2018-01-18 09:50:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.94e-5,
+        "cryptoTimestamp": "2018-01-18 09:55:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.862e-5,
+        "cryptoTimestamp": "2018-01-18 10:00:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.629e-5,
+        "cryptoTimestamp": "2018-01-18 10:05:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.001e-5,
+        "cryptoTimestamp": "2018-01-18 10:10:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 9.0e-5,
+        "cryptoTimestamp": "2018-01-18 10:15:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.864e-5,
+        "cryptoTimestamp": "2018-01-18 10:20:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.864e-5,
+        "cryptoTimestamp": "2018-01-18 10:25:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.906e-5,
+        "cryptoTimestamp": "2018-01-18 10:30:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.906e-5,
+        "cryptoTimestamp": "2018-01-18 10:35:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.796e-5,
+        "cryptoTimestamp": "2018-01-18 10:40:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.898e-5,
+        "cryptoTimestamp": "2018-01-18 10:45:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.898e-5,
+        "cryptoTimestamp": "2018-01-18 10:50:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.631e-5,
+        "cryptoTimestamp": "2018-01-18 10:55:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.644e-5,
+        "cryptoTimestamp": "2018-01-18 11:00:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.643e-5,
+        "cryptoTimestamp": "2018-01-18 11:05:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.755e-5,
+        "cryptoTimestamp": "2018-01-18 11:10:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.645e-5,
+        "cryptoTimestamp": "2018-01-18 11:15:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.646e-5,
+        "cryptoTimestamp": "2018-01-18 11:20:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.755e-5,
+        "cryptoTimestamp": "2018-01-18 11:25:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.755e-5,
+        "cryptoTimestamp": "2018-01-18 11:30:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.75e-5,
+        "cryptoTimestamp": "2018-01-18 11:35:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.75e-5,
+        "cryptoTimestamp": "2018-01-18 11:40:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.755e-5,
+        "cryptoTimestamp": "2018-01-18 11:45:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.764e-5,
+        "cryptoTimestamp": "2018-01-18 11:50:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.772e-5,
+        "cryptoTimestamp": "2018-01-18 11:55:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.772e-5,
+        "cryptoTimestamp": "2018-01-18 12:00:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.772e-5,
+        "cryptoTimestamp": "2018-01-18 12:05:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.873e-5,
+        "cryptoTimestamp": "2018-01-18 12:10:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.873e-5,
+        "cryptoTimestamp": "2018-01-18 12:15:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.872e-5,
+        "cryptoTimestamp": "2018-01-18 12:20:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.812e-5,
+        "cryptoTimestamp": "2018-01-18 12:25:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.906e-5,
+        "cryptoTimestamp": "2018-01-18 12:30:00"
+    },
+    {
+        "cryptoCurrency": "TIX",
+        "cryptoValue": 8.864e-5,
+        "cryptoTimestamp": "2018-01-18 12:35:00"
     }
 ]
