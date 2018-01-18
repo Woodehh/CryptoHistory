@@ -83583,5 +83583,725 @@
         "cryptoCurrency": "BTG",
         "cryptoValue": 0.016656,
         "cryptoTimestamp": "2018-01-18 00:05:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01650006,
+        "cryptoTimestamp": "2018-01-18 00:10:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01646858,
+        "cryptoTimestamp": "2018-01-18 00:15:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01649554,
+        "cryptoTimestamp": "2018-01-18 00:20:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01669999,
+        "cryptoTimestamp": "2018-01-18 00:25:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01657438,
+        "cryptoTimestamp": "2018-01-18 00:30:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01656957,
+        "cryptoTimestamp": "2018-01-18 00:35:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01642903,
+        "cryptoTimestamp": "2018-01-18 00:40:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01689999,
+        "cryptoTimestamp": "2018-01-18 00:45:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.016953,
+        "cryptoTimestamp": "2018-01-18 00:50:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01685,
+        "cryptoTimestamp": "2018-01-18 00:55:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01674613,
+        "cryptoTimestamp": "2018-01-18 01:00:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01686991,
+        "cryptoTimestamp": "2018-01-18 01:05:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01689915,
+        "cryptoTimestamp": "2018-01-18 01:10:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01689883,
+        "cryptoTimestamp": "2018-01-18 01:15:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01689996,
+        "cryptoTimestamp": "2018-01-18 01:20:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01689994,
+        "cryptoTimestamp": "2018-01-18 01:25:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.0169384,
+        "cryptoTimestamp": "2018-01-18 01:30:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01680507,
+        "cryptoTimestamp": "2018-01-18 01:35:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01691627,
+        "cryptoTimestamp": "2018-01-18 01:40:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01681023,
+        "cryptoTimestamp": "2018-01-18 01:45:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01693991,
+        "cryptoTimestamp": "2018-01-18 01:50:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.0167162,
+        "cryptoTimestamp": "2018-01-18 01:55:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01681301,
+        "cryptoTimestamp": "2018-01-18 02:00:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01681321,
+        "cryptoTimestamp": "2018-01-18 02:05:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01681497,
+        "cryptoTimestamp": "2018-01-18 02:10:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01696976,
+        "cryptoTimestamp": "2018-01-18 02:15:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01709385,
+        "cryptoTimestamp": "2018-01-18 02:20:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01723321,
+        "cryptoTimestamp": "2018-01-18 02:25:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01719999,
+        "cryptoTimestamp": "2018-01-18 02:30:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01719798,
+        "cryptoTimestamp": "2018-01-18 02:35:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01721,
+        "cryptoTimestamp": "2018-01-18 02:40:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.0171,
+        "cryptoTimestamp": "2018-01-18 02:45:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01722359,
+        "cryptoTimestamp": "2018-01-18 02:50:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01726205,
+        "cryptoTimestamp": "2018-01-18 02:55:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.017277,
+        "cryptoTimestamp": "2018-01-18 03:00:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01710059,
+        "cryptoTimestamp": "2018-01-18 03:05:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01710033,
+        "cryptoTimestamp": "2018-01-18 03:10:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01710006,
+        "cryptoTimestamp": "2018-01-18 03:15:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01724975,
+        "cryptoTimestamp": "2018-01-18 03:20:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.0172,
+        "cryptoTimestamp": "2018-01-18 03:25:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01700426,
+        "cryptoTimestamp": "2018-01-18 03:30:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01704279,
+        "cryptoTimestamp": "2018-01-18 03:35:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01702183,
+        "cryptoTimestamp": "2018-01-18 03:40:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01693676,
+        "cryptoTimestamp": "2018-01-18 03:45:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01675565,
+        "cryptoTimestamp": "2018-01-18 03:50:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01696899,
+        "cryptoTimestamp": "2018-01-18 03:55:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01701939,
+        "cryptoTimestamp": "2018-01-18 04:00:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01691004,
+        "cryptoTimestamp": "2018-01-18 04:05:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01676202,
+        "cryptoTimestamp": "2018-01-18 04:10:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.0169101,
+        "cryptoTimestamp": "2018-01-18 04:15:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01694587,
+        "cryptoTimestamp": "2018-01-18 04:20:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01687868,
+        "cryptoTimestamp": "2018-01-18 04:25:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01687865,
+        "cryptoTimestamp": "2018-01-18 04:30:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01673069,
+        "cryptoTimestamp": "2018-01-18 04:35:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01675371,
+        "cryptoTimestamp": "2018-01-18 04:40:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01691497,
+        "cryptoTimestamp": "2018-01-18 04:45:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01675003,
+        "cryptoTimestamp": "2018-01-18 04:50:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01663672,
+        "cryptoTimestamp": "2018-01-18 04:55:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01663808,
+        "cryptoTimestamp": "2018-01-18 05:00:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01666477,
+        "cryptoTimestamp": "2018-01-18 05:05:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01666432,
+        "cryptoTimestamp": "2018-01-18 05:10:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.0166642,
+        "cryptoTimestamp": "2018-01-18 05:15:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01656007,
+        "cryptoTimestamp": "2018-01-18 05:20:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.0166642,
+        "cryptoTimestamp": "2018-01-18 05:25:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01663714,
+        "cryptoTimestamp": "2018-01-18 05:30:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01650308,
+        "cryptoTimestamp": "2018-01-18 05:35:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01663716,
+        "cryptoTimestamp": "2018-01-18 05:40:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.0166,
+        "cryptoTimestamp": "2018-01-18 05:45:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01666306,
+        "cryptoTimestamp": "2018-01-18 05:50:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01673658,
+        "cryptoTimestamp": "2018-01-18 05:55:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01686989,
+        "cryptoTimestamp": "2018-01-18 06:00:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01686088,
+        "cryptoTimestamp": "2018-01-18 06:05:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01691632,
+        "cryptoTimestamp": "2018-01-18 06:10:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01692832,
+        "cryptoTimestamp": "2018-01-18 06:15:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01655922,
+        "cryptoTimestamp": "2018-01-18 06:20:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01682669,
+        "cryptoTimestamp": "2018-01-18 06:25:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01664889,
+        "cryptoTimestamp": "2018-01-18 06:30:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.0165649,
+        "cryptoTimestamp": "2018-01-18 06:35:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01683859,
+        "cryptoTimestamp": "2018-01-18 06:40:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01699625,
+        "cryptoTimestamp": "2018-01-18 06:45:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01698038,
+        "cryptoTimestamp": "2018-01-18 06:50:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01706033,
+        "cryptoTimestamp": "2018-01-18 06:55:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01713023,
+        "cryptoTimestamp": "2018-01-18 07:00:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01744796,
+        "cryptoTimestamp": "2018-01-18 07:05:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01741124,
+        "cryptoTimestamp": "2018-01-18 07:10:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.017411,
+        "cryptoTimestamp": "2018-01-18 07:15:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01757808,
+        "cryptoTimestamp": "2018-01-18 07:20:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01753594,
+        "cryptoTimestamp": "2018-01-18 07:25:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01745236,
+        "cryptoTimestamp": "2018-01-18 07:30:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01751,
+        "cryptoTimestamp": "2018-01-18 07:35:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01749997,
+        "cryptoTimestamp": "2018-01-18 07:40:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.0175,
+        "cryptoTimestamp": "2018-01-18 07:45:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01739997,
+        "cryptoTimestamp": "2018-01-18 07:50:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01733687,
+        "cryptoTimestamp": "2018-01-18 07:55:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.0175,
+        "cryptoTimestamp": "2018-01-18 08:00:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.0175724,
+        "cryptoTimestamp": "2018-01-18 08:05:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01750001,
+        "cryptoTimestamp": "2018-01-18 08:10:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01745123,
+        "cryptoTimestamp": "2018-01-18 08:15:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01749004,
+        "cryptoTimestamp": "2018-01-18 08:20:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01723073,
+        "cryptoTimestamp": "2018-01-18 08:25:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01731573,
+        "cryptoTimestamp": "2018-01-18 08:30:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.0172,
+        "cryptoTimestamp": "2018-01-18 08:35:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01715193,
+        "cryptoTimestamp": "2018-01-18 08:40:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01729942,
+        "cryptoTimestamp": "2018-01-18 08:45:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01700036,
+        "cryptoTimestamp": "2018-01-18 08:50:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01711,
+        "cryptoTimestamp": "2018-01-18 08:55:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01710999,
+        "cryptoTimestamp": "2018-01-18 09:00:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.017,
+        "cryptoTimestamp": "2018-01-18 09:05:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01699895,
+        "cryptoTimestamp": "2018-01-18 09:10:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01690037,
+        "cryptoTimestamp": "2018-01-18 09:15:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01714747,
+        "cryptoTimestamp": "2018-01-18 09:20:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01714,
+        "cryptoTimestamp": "2018-01-18 09:25:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01713995,
+        "cryptoTimestamp": "2018-01-18 09:30:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01714,
+        "cryptoTimestamp": "2018-01-18 09:35:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.0171399,
+        "cryptoTimestamp": "2018-01-18 09:40:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01718993,
+        "cryptoTimestamp": "2018-01-18 09:45:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01719,
+        "cryptoTimestamp": "2018-01-18 09:50:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01705154,
+        "cryptoTimestamp": "2018-01-18 09:55:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01719858,
+        "cryptoTimestamp": "2018-01-18 10:00:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01705304,
+        "cryptoTimestamp": "2018-01-18 10:05:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01705307,
+        "cryptoTimestamp": "2018-01-18 10:10:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01705462,
+        "cryptoTimestamp": "2018-01-18 10:15:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01715,
+        "cryptoTimestamp": "2018-01-18 10:20:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01714888,
+        "cryptoTimestamp": "2018-01-18 10:25:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01706,
+        "cryptoTimestamp": "2018-01-18 10:30:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01706002,
+        "cryptoTimestamp": "2018-01-18 10:35:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.017,
+        "cryptoTimestamp": "2018-01-18 10:40:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.017001,
+        "cryptoTimestamp": "2018-01-18 10:45:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01697498,
+        "cryptoTimestamp": "2018-01-18 10:50:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01697497,
+        "cryptoTimestamp": "2018-01-18 10:55:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01697501,
+        "cryptoTimestamp": "2018-01-18 11:00:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01700999,
+        "cryptoTimestamp": "2018-01-18 11:05:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01714888,
+        "cryptoTimestamp": "2018-01-18 11:10:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.017149,
+        "cryptoTimestamp": "2018-01-18 11:15:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01715008,
+        "cryptoTimestamp": "2018-01-18 11:20:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.017223,
+        "cryptoTimestamp": "2018-01-18 11:25:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01745072,
+        "cryptoTimestamp": "2018-01-18 11:30:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.0173,
+        "cryptoTimestamp": "2018-01-18 11:35:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01722323,
+        "cryptoTimestamp": "2018-01-18 11:40:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01715041,
+        "cryptoTimestamp": "2018-01-18 11:45:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01715048,
+        "cryptoTimestamp": "2018-01-18 11:50:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01749698,
+        "cryptoTimestamp": "2018-01-18 11:55:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01751483,
+        "cryptoTimestamp": "2018-01-18 12:00:00"
+    },
+    {
+        "cryptoCurrency": "BTG",
+        "cryptoValue": 0.01774999,
+        "cryptoTimestamp": "2018-01-18 12:05:00"
     }
 ]
