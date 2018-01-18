@@ -94245,4 +94245,724 @@
     <cryptoValue>9.974E-5</cryptoValue>
     <cryptoTimestamp>2018-01-18 12:30:00</cryptoTimestamp>
   </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.903E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-18 12:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.909E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-18 12:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.908E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-18 12:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.848E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-18 12:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.953E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-18 12:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.882E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-18 13:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.928E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-18 13:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.888E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-18 13:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.0001002</cryptoValue>
+    <cryptoTimestamp>2018-01-18 13:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010078</cryptoValue>
+    <cryptoTimestamp>2018-01-18 13:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010148</cryptoValue>
+    <cryptoTimestamp>2018-01-18 13:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010178</cryptoValue>
+    <cryptoTimestamp>2018-01-18 13:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010237</cryptoValue>
+    <cryptoTimestamp>2018-01-18 13:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010095</cryptoValue>
+    <cryptoTimestamp>2018-01-18 13:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010243</cryptoValue>
+    <cryptoTimestamp>2018-01-18 13:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010394</cryptoValue>
+    <cryptoTimestamp>2018-01-18 13:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010199</cryptoValue>
+    <cryptoTimestamp>2018-01-18 13:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010068</cryptoValue>
+    <cryptoTimestamp>2018-01-18 14:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.865E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-18 14:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010016</cryptoValue>
+    <cryptoTimestamp>2018-01-18 14:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.869E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-18 14:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.95E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-18 14:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010107</cryptoValue>
+    <cryptoTimestamp>2018-01-18 14:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010094</cryptoValue>
+    <cryptoTimestamp>2018-01-18 14:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010172</cryptoValue>
+    <cryptoTimestamp>2018-01-18 14:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010254</cryptoValue>
+    <cryptoTimestamp>2018-01-18 14:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010243</cryptoValue>
+    <cryptoTimestamp>2018-01-18 14:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010173</cryptoValue>
+    <cryptoTimestamp>2018-01-18 14:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010243</cryptoValue>
+    <cryptoTimestamp>2018-01-18 14:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010128</cryptoValue>
+    <cryptoTimestamp>2018-01-18 15:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.000101</cryptoValue>
+    <cryptoTimestamp>2018-01-18 15:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010181</cryptoValue>
+    <cryptoTimestamp>2018-01-18 15:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.946E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-18 15:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.977E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-18 15:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.948E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-18 15:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.974E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-18 15:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010038</cryptoValue>
+    <cryptoTimestamp>2018-01-18 15:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010119</cryptoValue>
+    <cryptoTimestamp>2018-01-18 15:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010177</cryptoValue>
+    <cryptoTimestamp>2018-01-18 15:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010095</cryptoValue>
+    <cryptoTimestamp>2018-01-18 15:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010132</cryptoValue>
+    <cryptoTimestamp>2018-01-18 15:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010125</cryptoValue>
+    <cryptoTimestamp>2018-01-18 16:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010125</cryptoValue>
+    <cryptoTimestamp>2018-01-18 16:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.0001013</cryptoValue>
+    <cryptoTimestamp>2018-01-18 16:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010114</cryptoValue>
+    <cryptoTimestamp>2018-01-18 16:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010065</cryptoValue>
+    <cryptoTimestamp>2018-01-18 16:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010178</cryptoValue>
+    <cryptoTimestamp>2018-01-18 16:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010151</cryptoValue>
+    <cryptoTimestamp>2018-01-18 16:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010188</cryptoValue>
+    <cryptoTimestamp>2018-01-18 16:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010187</cryptoValue>
+    <cryptoTimestamp>2018-01-18 16:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.0001028</cryptoValue>
+    <cryptoTimestamp>2018-01-18 16:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010263</cryptoValue>
+    <cryptoTimestamp>2018-01-18 16:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010287</cryptoValue>
+    <cryptoTimestamp>2018-01-18 16:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.000103</cryptoValue>
+    <cryptoTimestamp>2018-01-18 17:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010445</cryptoValue>
+    <cryptoTimestamp>2018-01-18 17:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010471</cryptoValue>
+    <cryptoTimestamp>2018-01-18 17:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010352</cryptoValue>
+    <cryptoTimestamp>2018-01-18 17:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010482</cryptoValue>
+    <cryptoTimestamp>2018-01-18 17:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.0001057</cryptoValue>
+    <cryptoTimestamp>2018-01-18 17:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010538</cryptoValue>
+    <cryptoTimestamp>2018-01-18 17:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010539</cryptoValue>
+    <cryptoTimestamp>2018-01-18 17:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010555</cryptoValue>
+    <cryptoTimestamp>2018-01-18 17:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010439</cryptoValue>
+    <cryptoTimestamp>2018-01-18 17:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.0001059</cryptoValue>
+    <cryptoTimestamp>2018-01-18 17:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010391</cryptoValue>
+    <cryptoTimestamp>2018-01-18 17:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.0001027</cryptoValue>
+    <cryptoTimestamp>2018-01-18 18:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010207</cryptoValue>
+    <cryptoTimestamp>2018-01-18 18:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010297</cryptoValue>
+    <cryptoTimestamp>2018-01-18 18:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010242</cryptoValue>
+    <cryptoTimestamp>2018-01-18 18:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.0001015</cryptoValue>
+    <cryptoTimestamp>2018-01-18 18:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010281</cryptoValue>
+    <cryptoTimestamp>2018-01-18 18:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010295</cryptoValue>
+    <cryptoTimestamp>2018-01-18 18:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010281</cryptoValue>
+    <cryptoTimestamp>2018-01-18 18:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010222</cryptoValue>
+    <cryptoTimestamp>2018-01-18 18:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.0001028</cryptoValue>
+    <cryptoTimestamp>2018-01-18 18:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010181</cryptoValue>
+    <cryptoTimestamp>2018-01-18 18:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.0001018</cryptoValue>
+    <cryptoTimestamp>2018-01-18 18:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010103</cryptoValue>
+    <cryptoTimestamp>2018-01-18 19:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010168</cryptoValue>
+    <cryptoTimestamp>2018-01-18 19:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010145</cryptoValue>
+    <cryptoTimestamp>2018-01-18 19:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.0001015</cryptoValue>
+    <cryptoTimestamp>2018-01-18 19:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010247</cryptoValue>
+    <cryptoTimestamp>2018-01-18 19:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010259</cryptoValue>
+    <cryptoTimestamp>2018-01-18 19:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.000102</cryptoValue>
+    <cryptoTimestamp>2018-01-18 19:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.000102</cryptoValue>
+    <cryptoTimestamp>2018-01-18 19:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010199</cryptoValue>
+    <cryptoTimestamp>2018-01-18 19:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010151</cryptoValue>
+    <cryptoTimestamp>2018-01-18 19:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010198</cryptoValue>
+    <cryptoTimestamp>2018-01-18 19:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010094</cryptoValue>
+    <cryptoTimestamp>2018-01-18 19:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010104</cryptoValue>
+    <cryptoTimestamp>2018-01-18 20:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.0001024</cryptoValue>
+    <cryptoTimestamp>2018-01-18 20:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.0001018</cryptoValue>
+    <cryptoTimestamp>2018-01-18 20:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010252</cryptoValue>
+    <cryptoTimestamp>2018-01-18 20:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010251</cryptoValue>
+    <cryptoTimestamp>2018-01-18 20:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.0001026</cryptoValue>
+    <cryptoTimestamp>2018-01-18 20:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.0001026</cryptoValue>
+    <cryptoTimestamp>2018-01-18 20:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010261</cryptoValue>
+    <cryptoTimestamp>2018-01-18 20:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.000103</cryptoValue>
+    <cryptoTimestamp>2018-01-18 20:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010249</cryptoValue>
+    <cryptoTimestamp>2018-01-18 20:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.0001035</cryptoValue>
+    <cryptoTimestamp>2018-01-18 20:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.0001028</cryptoValue>
+    <cryptoTimestamp>2018-01-18 20:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010255</cryptoValue>
+    <cryptoTimestamp>2018-01-18 21:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010255</cryptoValue>
+    <cryptoTimestamp>2018-01-18 21:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010248</cryptoValue>
+    <cryptoTimestamp>2018-01-18 21:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.000105</cryptoValue>
+    <cryptoTimestamp>2018-01-18 21:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.0001026</cryptoValue>
+    <cryptoTimestamp>2018-01-18 21:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.0001029</cryptoValue>
+    <cryptoTimestamp>2018-01-18 21:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010303</cryptoValue>
+    <cryptoTimestamp>2018-01-18 21:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010183</cryptoValue>
+    <cryptoTimestamp>2018-01-18 21:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.0001023</cryptoValue>
+    <cryptoTimestamp>2018-01-18 21:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.0001016</cryptoValue>
+    <cryptoTimestamp>2018-01-18 21:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010189</cryptoValue>
+    <cryptoTimestamp>2018-01-18 21:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010085</cryptoValue>
+    <cryptoTimestamp>2018-01-18 21:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010177</cryptoValue>
+    <cryptoTimestamp>2018-01-18 22:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010293</cryptoValue>
+    <cryptoTimestamp>2018-01-18 22:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010221</cryptoValue>
+    <cryptoTimestamp>2018-01-18 22:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010236</cryptoValue>
+    <cryptoTimestamp>2018-01-18 22:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.000102</cryptoValue>
+    <cryptoTimestamp>2018-01-18 22:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010177</cryptoValue>
+    <cryptoTimestamp>2018-01-18 22:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010176</cryptoValue>
+    <cryptoTimestamp>2018-01-18 22:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.0001013</cryptoValue>
+    <cryptoTimestamp>2018-01-18 22:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.0001017</cryptoValue>
+    <cryptoTimestamp>2018-01-18 22:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.0001017</cryptoValue>
+    <cryptoTimestamp>2018-01-18 22:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010134</cryptoValue>
+    <cryptoTimestamp>2018-01-18 22:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010072</cryptoValue>
+    <cryptoTimestamp>2018-01-18 22:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010072</cryptoValue>
+    <cryptoTimestamp>2018-01-18 23:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.000101</cryptoValue>
+    <cryptoTimestamp>2018-01-18 23:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010043</cryptoValue>
+    <cryptoTimestamp>2018-01-18 23:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.862E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-18 23:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.932E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-18 23:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.895E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-18 23:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.866E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-18 23:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.865E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-18 23:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.775E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-18 23:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.982E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-18 23:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010088</cryptoValue>
+    <cryptoTimestamp>2018-01-18 23:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>0.00010026</cryptoValue>
+    <cryptoTimestamp>2018-01-18 23:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.895E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-19 00:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.9E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-19 00:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.937E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-19 00:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.838E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-19 00:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.822E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-19 00:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.76E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-19 00:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>POWR</cryptoCurrency>
+    <cryptoValue>9.91E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-19 00:30:00</cryptoTimestamp>
+  </item>
 </item>
