@@ -160028,5 +160028,725 @@
         "cryptoCurrency": "ADA",
         "cryptoValue": 5.595e-5,
         "cryptoTimestamp": "2018-01-18 12:00:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.582e-5,
+        "cryptoTimestamp": "2018-01-18 12:05:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.584e-5,
+        "cryptoTimestamp": "2018-01-18 12:10:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.583e-5,
+        "cryptoTimestamp": "2018-01-18 12:15:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.57e-5,
+        "cryptoTimestamp": "2018-01-18 12:20:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.595e-5,
+        "cryptoTimestamp": "2018-01-18 12:25:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.602e-5,
+        "cryptoTimestamp": "2018-01-18 12:30:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.614e-5,
+        "cryptoTimestamp": "2018-01-18 12:35:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.605e-5,
+        "cryptoTimestamp": "2018-01-18 12:40:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.57e-5,
+        "cryptoTimestamp": "2018-01-18 12:45:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.57e-5,
+        "cryptoTimestamp": "2018-01-18 12:50:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.608e-5,
+        "cryptoTimestamp": "2018-01-18 12:55:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.622e-5,
+        "cryptoTimestamp": "2018-01-18 13:00:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.582e-5,
+        "cryptoTimestamp": "2018-01-18 13:05:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.591e-5,
+        "cryptoTimestamp": "2018-01-18 13:10:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.621e-5,
+        "cryptoTimestamp": "2018-01-18 13:15:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.62e-5,
+        "cryptoTimestamp": "2018-01-18 13:20:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.68e-5,
+        "cryptoTimestamp": "2018-01-18 13:25:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.71e-5,
+        "cryptoTimestamp": "2018-01-18 13:30:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.774e-5,
+        "cryptoTimestamp": "2018-01-18 13:35:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.722e-5,
+        "cryptoTimestamp": "2018-01-18 13:40:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.745e-5,
+        "cryptoTimestamp": "2018-01-18 13:45:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.757e-5,
+        "cryptoTimestamp": "2018-01-18 13:50:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.718e-5,
+        "cryptoTimestamp": "2018-01-18 13:55:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.7e-5,
+        "cryptoTimestamp": "2018-01-18 14:00:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.72e-5,
+        "cryptoTimestamp": "2018-01-18 14:05:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.665e-5,
+        "cryptoTimestamp": "2018-01-18 14:10:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.694e-5,
+        "cryptoTimestamp": "2018-01-18 14:15:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.644e-5,
+        "cryptoTimestamp": "2018-01-18 14:20:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.697e-5,
+        "cryptoTimestamp": "2018-01-18 14:25:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.695e-5,
+        "cryptoTimestamp": "2018-01-18 14:30:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.718e-5,
+        "cryptoTimestamp": "2018-01-18 14:35:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.719e-5,
+        "cryptoTimestamp": "2018-01-18 14:40:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.731e-5,
+        "cryptoTimestamp": "2018-01-18 14:45:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.745e-5,
+        "cryptoTimestamp": "2018-01-18 14:50:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.723e-5,
+        "cryptoTimestamp": "2018-01-18 14:55:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.72e-5,
+        "cryptoTimestamp": "2018-01-18 15:00:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.72e-5,
+        "cryptoTimestamp": "2018-01-18 15:05:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.72e-5,
+        "cryptoTimestamp": "2018-01-18 15:10:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.728e-5,
+        "cryptoTimestamp": "2018-01-18 15:15:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.716e-5,
+        "cryptoTimestamp": "2018-01-18 15:20:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.719e-5,
+        "cryptoTimestamp": "2018-01-18 15:25:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.71e-5,
+        "cryptoTimestamp": "2018-01-18 15:30:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.708e-5,
+        "cryptoTimestamp": "2018-01-18 15:35:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.694e-5,
+        "cryptoTimestamp": "2018-01-18 15:40:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.694e-5,
+        "cryptoTimestamp": "2018-01-18 15:45:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.69e-5,
+        "cryptoTimestamp": "2018-01-18 15:50:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.692e-5,
+        "cryptoTimestamp": "2018-01-18 15:55:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.7e-5,
+        "cryptoTimestamp": "2018-01-18 16:00:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.791e-5,
+        "cryptoTimestamp": "2018-01-18 16:05:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.77e-5,
+        "cryptoTimestamp": "2018-01-18 16:10:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.788e-5,
+        "cryptoTimestamp": "2018-01-18 16:15:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.785e-5,
+        "cryptoTimestamp": "2018-01-18 16:20:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.807e-5,
+        "cryptoTimestamp": "2018-01-18 16:25:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.808e-5,
+        "cryptoTimestamp": "2018-01-18 16:30:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.806e-5,
+        "cryptoTimestamp": "2018-01-18 16:35:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.835e-5,
+        "cryptoTimestamp": "2018-01-18 16:40:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.849e-5,
+        "cryptoTimestamp": "2018-01-18 16:45:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.849e-5,
+        "cryptoTimestamp": "2018-01-18 16:50:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.89e-5,
+        "cryptoTimestamp": "2018-01-18 16:55:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.9e-5,
+        "cryptoTimestamp": "2018-01-18 17:00:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.877e-5,
+        "cryptoTimestamp": "2018-01-18 17:05:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.87e-5,
+        "cryptoTimestamp": "2018-01-18 17:10:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.865e-5,
+        "cryptoTimestamp": "2018-01-18 17:15:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.899e-5,
+        "cryptoTimestamp": "2018-01-18 17:20:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.85e-5,
+        "cryptoTimestamp": "2018-01-18 17:25:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.84e-5,
+        "cryptoTimestamp": "2018-01-18 17:30:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.827e-5,
+        "cryptoTimestamp": "2018-01-18 17:35:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.84e-5,
+        "cryptoTimestamp": "2018-01-18 17:40:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.845e-5,
+        "cryptoTimestamp": "2018-01-18 17:45:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.83e-5,
+        "cryptoTimestamp": "2018-01-18 17:50:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.85e-5,
+        "cryptoTimestamp": "2018-01-18 17:55:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.829e-5,
+        "cryptoTimestamp": "2018-01-18 18:00:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.858e-5,
+        "cryptoTimestamp": "2018-01-18 18:05:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.857e-5,
+        "cryptoTimestamp": "2018-01-18 18:10:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.87e-5,
+        "cryptoTimestamp": "2018-01-18 18:15:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.874e-5,
+        "cryptoTimestamp": "2018-01-18 18:20:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.899e-5,
+        "cryptoTimestamp": "2018-01-18 18:25:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.897e-5,
+        "cryptoTimestamp": "2018-01-18 18:30:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.899e-5,
+        "cryptoTimestamp": "2018-01-18 18:35:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.885e-5,
+        "cryptoTimestamp": "2018-01-18 18:40:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.882e-5,
+        "cryptoTimestamp": "2018-01-18 18:45:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.856e-5,
+        "cryptoTimestamp": "2018-01-18 18:50:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.841e-5,
+        "cryptoTimestamp": "2018-01-18 18:55:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.86e-5,
+        "cryptoTimestamp": "2018-01-18 19:00:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.831e-5,
+        "cryptoTimestamp": "2018-01-18 19:05:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.835e-5,
+        "cryptoTimestamp": "2018-01-18 19:10:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.887e-5,
+        "cryptoTimestamp": "2018-01-18 19:15:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.868e-5,
+        "cryptoTimestamp": "2018-01-18 19:20:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.87e-5,
+        "cryptoTimestamp": "2018-01-18 19:25:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.865e-5,
+        "cryptoTimestamp": "2018-01-18 19:30:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.866e-5,
+        "cryptoTimestamp": "2018-01-18 19:35:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.856e-5,
+        "cryptoTimestamp": "2018-01-18 19:40:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.866e-5,
+        "cryptoTimestamp": "2018-01-18 19:45:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.87e-5,
+        "cryptoTimestamp": "2018-01-18 19:50:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.851e-5,
+        "cryptoTimestamp": "2018-01-18 19:55:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.882e-5,
+        "cryptoTimestamp": "2018-01-18 20:00:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.895e-5,
+        "cryptoTimestamp": "2018-01-18 20:05:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.92e-5,
+        "cryptoTimestamp": "2018-01-18 20:10:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.936e-5,
+        "cryptoTimestamp": "2018-01-18 20:15:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.944e-5,
+        "cryptoTimestamp": "2018-01-18 20:20:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.929e-5,
+        "cryptoTimestamp": "2018-01-18 20:25:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.927e-5,
+        "cryptoTimestamp": "2018-01-18 20:30:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.91e-5,
+        "cryptoTimestamp": "2018-01-18 20:35:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.85e-5,
+        "cryptoTimestamp": "2018-01-18 20:40:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.848e-5,
+        "cryptoTimestamp": "2018-01-18 20:45:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.899e-5,
+        "cryptoTimestamp": "2018-01-18 20:50:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.89e-5,
+        "cryptoTimestamp": "2018-01-18 20:55:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.903e-5,
+        "cryptoTimestamp": "2018-01-18 21:00:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.904e-5,
+        "cryptoTimestamp": "2018-01-18 21:05:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.908e-5,
+        "cryptoTimestamp": "2018-01-18 21:10:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.93e-5,
+        "cryptoTimestamp": "2018-01-18 21:15:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.87e-5,
+        "cryptoTimestamp": "2018-01-18 21:20:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.895e-5,
+        "cryptoTimestamp": "2018-01-18 21:25:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.88e-5,
+        "cryptoTimestamp": "2018-01-18 21:30:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.9e-5,
+        "cryptoTimestamp": "2018-01-18 21:35:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.934e-5,
+        "cryptoTimestamp": "2018-01-18 21:40:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.947e-5,
+        "cryptoTimestamp": "2018-01-18 21:45:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.939e-5,
+        "cryptoTimestamp": "2018-01-18 21:50:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.904e-5,
+        "cryptoTimestamp": "2018-01-18 21:55:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.907e-5,
+        "cryptoTimestamp": "2018-01-18 22:00:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.929e-5,
+        "cryptoTimestamp": "2018-01-18 22:05:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.939e-5,
+        "cryptoTimestamp": "2018-01-18 22:10:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.907e-5,
+        "cryptoTimestamp": "2018-01-18 22:15:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.904e-5,
+        "cryptoTimestamp": "2018-01-18 22:20:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.861e-5,
+        "cryptoTimestamp": "2018-01-18 22:25:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.881e-5,
+        "cryptoTimestamp": "2018-01-18 22:30:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.881e-5,
+        "cryptoTimestamp": "2018-01-18 22:35:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.864e-5,
+        "cryptoTimestamp": "2018-01-18 22:40:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.867e-5,
+        "cryptoTimestamp": "2018-01-18 22:45:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.885e-5,
+        "cryptoTimestamp": "2018-01-18 22:50:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.821e-5,
+        "cryptoTimestamp": "2018-01-18 22:55:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.827e-5,
+        "cryptoTimestamp": "2018-01-18 23:00:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.813e-5,
+        "cryptoTimestamp": "2018-01-18 23:05:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.799e-5,
+        "cryptoTimestamp": "2018-01-18 23:10:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.722e-5,
+        "cryptoTimestamp": "2018-01-18 23:15:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.701e-5,
+        "cryptoTimestamp": "2018-01-18 23:20:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.7e-5,
+        "cryptoTimestamp": "2018-01-18 23:25:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.746e-5,
+        "cryptoTimestamp": "2018-01-18 23:30:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.72e-5,
+        "cryptoTimestamp": "2018-01-18 23:35:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.767e-5,
+        "cryptoTimestamp": "2018-01-18 23:40:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.83e-5,
+        "cryptoTimestamp": "2018-01-18 23:45:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.838e-5,
+        "cryptoTimestamp": "2018-01-18 23:50:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.835e-5,
+        "cryptoTimestamp": "2018-01-18 23:55:00"
+    },
+    {
+        "cryptoCurrency": "ADA",
+        "cryptoValue": 5.802e-5,
+        "cryptoTimestamp": "2018-01-19 00:00:00"
     }
 ]
