@@ -71943,5 +71943,720 @@
         "cryptoCurrency": "ENG",
         "cryptoValue": 0.00041684,
         "cryptoTimestamp": "2018-01-19 00:15:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041325,
+        "cryptoTimestamp": "2018-01-19 00:20:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041455,
+        "cryptoTimestamp": "2018-01-19 00:25:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.000421,
+        "cryptoTimestamp": "2018-01-19 00:30:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.000415,
+        "cryptoTimestamp": "2018-01-19 00:35:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041996,
+        "cryptoTimestamp": "2018-01-19 00:40:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.0004188,
+        "cryptoTimestamp": "2018-01-19 00:45:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.0004158,
+        "cryptoTimestamp": "2018-01-19 00:50:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041577,
+        "cryptoTimestamp": "2018-01-19 00:55:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041576,
+        "cryptoTimestamp": "2018-01-19 01:00:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.0004157,
+        "cryptoTimestamp": "2018-01-19 01:05:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.0004136,
+        "cryptoTimestamp": "2018-01-19 01:10:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041499,
+        "cryptoTimestamp": "2018-01-19 01:15:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041793,
+        "cryptoTimestamp": "2018-01-19 01:20:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041486,
+        "cryptoTimestamp": "2018-01-19 01:25:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041483,
+        "cryptoTimestamp": "2018-01-19 01:30:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041135,
+        "cryptoTimestamp": "2018-01-19 01:35:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041,
+        "cryptoTimestamp": "2018-01-19 01:40:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041703,
+        "cryptoTimestamp": "2018-01-19 01:45:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041439,
+        "cryptoTimestamp": "2018-01-19 01:50:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041437,
+        "cryptoTimestamp": "2018-01-19 01:55:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041437,
+        "cryptoTimestamp": "2018-01-19 02:00:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041417,
+        "cryptoTimestamp": "2018-01-19 02:05:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041156,
+        "cryptoTimestamp": "2018-01-19 02:10:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041155,
+        "cryptoTimestamp": "2018-01-19 02:15:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041155,
+        "cryptoTimestamp": "2018-01-19 02:20:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00042003,
+        "cryptoTimestamp": "2018-01-19 02:25:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041171,
+        "cryptoTimestamp": "2018-01-19 02:30:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041297,
+        "cryptoTimestamp": "2018-01-19 02:35:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041647,
+        "cryptoTimestamp": "2018-01-19 02:40:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041543,
+        "cryptoTimestamp": "2018-01-19 02:45:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041541,
+        "cryptoTimestamp": "2018-01-19 02:50:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041541,
+        "cryptoTimestamp": "2018-01-19 02:55:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041674,
+        "cryptoTimestamp": "2018-01-19 03:00:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041501,
+        "cryptoTimestamp": "2018-01-19 03:05:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041512,
+        "cryptoTimestamp": "2018-01-19 03:10:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041526,
+        "cryptoTimestamp": "2018-01-19 03:15:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041597,
+        "cryptoTimestamp": "2018-01-19 03:20:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.0004158,
+        "cryptoTimestamp": "2018-01-19 03:25:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.0004158,
+        "cryptoTimestamp": "2018-01-19 03:30:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.000414,
+        "cryptoTimestamp": "2018-01-19 03:35:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040832,
+        "cryptoTimestamp": "2018-01-19 03:40:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041001,
+        "cryptoTimestamp": "2018-01-19 03:45:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040984,
+        "cryptoTimestamp": "2018-01-19 03:50:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040537,
+        "cryptoTimestamp": "2018-01-19 03:55:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040501,
+        "cryptoTimestamp": "2018-01-19 04:00:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040499,
+        "cryptoTimestamp": "2018-01-19 04:05:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040204,
+        "cryptoTimestamp": "2018-01-19 04:10:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040095,
+        "cryptoTimestamp": "2018-01-19 04:15:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040083,
+        "cryptoTimestamp": "2018-01-19 04:20:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00039086,
+        "cryptoTimestamp": "2018-01-19 04:25:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040083,
+        "cryptoTimestamp": "2018-01-19 04:30:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040096,
+        "cryptoTimestamp": "2018-01-19 04:35:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.0004043,
+        "cryptoTimestamp": "2018-01-19 04:40:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040272,
+        "cryptoTimestamp": "2018-01-19 04:45:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040249,
+        "cryptoTimestamp": "2018-01-19 04:50:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040249,
+        "cryptoTimestamp": "2018-01-19 04:55:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040271,
+        "cryptoTimestamp": "2018-01-19 05:00:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040181,
+        "cryptoTimestamp": "2018-01-19 05:05:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040171,
+        "cryptoTimestamp": "2018-01-19 05:10:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040171,
+        "cryptoTimestamp": "2018-01-19 05:15:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040017,
+        "cryptoTimestamp": "2018-01-19 05:20:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00039468,
+        "cryptoTimestamp": "2018-01-19 05:25:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.0003999,
+        "cryptoTimestamp": "2018-01-19 05:30:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040191,
+        "cryptoTimestamp": "2018-01-19 05:35:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040195,
+        "cryptoTimestamp": "2018-01-19 05:40:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040529,
+        "cryptoTimestamp": "2018-01-19 05:45:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040249,
+        "cryptoTimestamp": "2018-01-19 05:50:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040251,
+        "cryptoTimestamp": "2018-01-19 05:55:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040252,
+        "cryptoTimestamp": "2018-01-19 06:00:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040252,
+        "cryptoTimestamp": "2018-01-19 06:05:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00040572,
+        "cryptoTimestamp": "2018-01-19 06:10:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041486,
+        "cryptoTimestamp": "2018-01-19 06:15:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041122,
+        "cryptoTimestamp": "2018-01-19 06:20:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041245,
+        "cryptoTimestamp": "2018-01-19 06:25:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.0004178,
+        "cryptoTimestamp": "2018-01-19 06:30:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041779,
+        "cryptoTimestamp": "2018-01-19 06:35:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041781,
+        "cryptoTimestamp": "2018-01-19 06:40:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041821,
+        "cryptoTimestamp": "2018-01-19 06:45:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041605,
+        "cryptoTimestamp": "2018-01-19 06:50:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00042569,
+        "cryptoTimestamp": "2018-01-19 06:55:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00042308,
+        "cryptoTimestamp": "2018-01-19 07:00:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041653,
+        "cryptoTimestamp": "2018-01-19 07:05:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041797,
+        "cryptoTimestamp": "2018-01-19 07:10:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041797,
+        "cryptoTimestamp": "2018-01-19 07:15:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041808,
+        "cryptoTimestamp": "2018-01-19 07:20:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041907,
+        "cryptoTimestamp": "2018-01-19 07:25:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.0004235,
+        "cryptoTimestamp": "2018-01-19 07:30:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.0004189,
+        "cryptoTimestamp": "2018-01-19 07:35:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00042,
+        "cryptoTimestamp": "2018-01-19 07:40:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.0004208,
+        "cryptoTimestamp": "2018-01-19 07:45:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00042164,
+        "cryptoTimestamp": "2018-01-19 07:50:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041736,
+        "cryptoTimestamp": "2018-01-19 07:55:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041694,
+        "cryptoTimestamp": "2018-01-19 08:00:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00042181,
+        "cryptoTimestamp": "2018-01-19 08:05:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00042,
+        "cryptoTimestamp": "2018-01-19 08:10:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00042,
+        "cryptoTimestamp": "2018-01-19 08:15:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00041994,
+        "cryptoTimestamp": "2018-01-19 08:20:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00042,
+        "cryptoTimestamp": "2018-01-19 08:25:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.0004216,
+        "cryptoTimestamp": "2018-01-19 08:30:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00042183,
+        "cryptoTimestamp": "2018-01-19 08:35:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00042162,
+        "cryptoTimestamp": "2018-01-19 08:40:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00043077,
+        "cryptoTimestamp": "2018-01-19 08:45:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00043387,
+        "cryptoTimestamp": "2018-01-19 08:50:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00043499,
+        "cryptoTimestamp": "2018-01-19 08:55:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00043809,
+        "cryptoTimestamp": "2018-01-19 09:00:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00043397,
+        "cryptoTimestamp": "2018-01-19 09:05:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00043399,
+        "cryptoTimestamp": "2018-01-19 09:10:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00043539,
+        "cryptoTimestamp": "2018-01-19 09:15:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00043941,
+        "cryptoTimestamp": "2018-01-19 09:20:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.000436,
+        "cryptoTimestamp": "2018-01-19 09:25:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.000442,
+        "cryptoTimestamp": "2018-01-19 09:30:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00044266,
+        "cryptoTimestamp": "2018-01-19 09:35:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.000442,
+        "cryptoTimestamp": "2018-01-19 09:40:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00044285,
+        "cryptoTimestamp": "2018-01-19 09:45:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00044286,
+        "cryptoTimestamp": "2018-01-19 09:50:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.0004428,
+        "cryptoTimestamp": "2018-01-19 09:55:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.0004429,
+        "cryptoTimestamp": "2018-01-19 10:00:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00044288,
+        "cryptoTimestamp": "2018-01-19 10:05:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.000444,
+        "cryptoTimestamp": "2018-01-19 10:10:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00044512,
+        "cryptoTimestamp": "2018-01-19 10:15:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00044602,
+        "cryptoTimestamp": "2018-01-19 10:20:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00044602,
+        "cryptoTimestamp": "2018-01-19 10:25:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00044843,
+        "cryptoTimestamp": "2018-01-19 10:30:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00044894,
+        "cryptoTimestamp": "2018-01-19 10:35:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.0004489,
+        "cryptoTimestamp": "2018-01-19 10:40:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.0004498,
+        "cryptoTimestamp": "2018-01-19 10:45:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.000449,
+        "cryptoTimestamp": "2018-01-19 10:50:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00045195,
+        "cryptoTimestamp": "2018-01-19 10:55:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00045499,
+        "cryptoTimestamp": "2018-01-19 11:00:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.000448,
+        "cryptoTimestamp": "2018-01-19 11:05:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00044555,
+        "cryptoTimestamp": "2018-01-19 11:10:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.000448,
+        "cryptoTimestamp": "2018-01-19 11:15:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.000448,
+        "cryptoTimestamp": "2018-01-19 11:20:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00044799,
+        "cryptoTimestamp": "2018-01-19 11:25:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00044551,
+        "cryptoTimestamp": "2018-01-19 11:30:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00045001,
+        "cryptoTimestamp": "2018-01-19 11:35:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.000454,
+        "cryptoTimestamp": "2018-01-19 11:40:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00045298,
+        "cryptoTimestamp": "2018-01-19 11:45:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00045,
+        "cryptoTimestamp": "2018-01-19 11:50:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.000451,
+        "cryptoTimestamp": "2018-01-19 11:55:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.0004525,
+        "cryptoTimestamp": "2018-01-19 12:00:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.0004525,
+        "cryptoTimestamp": "2018-01-19 12:05:00"
+    },
+    {
+        "cryptoCurrency": "ENG",
+        "cryptoValue": 0.00045418,
+        "cryptoTimestamp": "2018-01-19 12:10:00"
     }
 ]
