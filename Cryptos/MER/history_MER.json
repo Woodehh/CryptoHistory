@@ -95728,5 +95728,725 @@
         "cryptoCurrency": "MER",
         "cryptoValue": 4.695e-5,
         "cryptoTimestamp": "2018-01-19 12:25:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 4.598e-5,
+        "cryptoTimestamp": "2018-01-19 12:30:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 4.564e-5,
+        "cryptoTimestamp": "2018-01-19 12:35:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 4.646e-5,
+        "cryptoTimestamp": "2018-01-19 12:40:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 4.7e-5,
+        "cryptoTimestamp": "2018-01-19 12:45:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 4.634e-5,
+        "cryptoTimestamp": "2018-01-19 12:50:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 4.646e-5,
+        "cryptoTimestamp": "2018-01-19 12:55:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 4.646e-5,
+        "cryptoTimestamp": "2018-01-19 13:00:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 4.625e-5,
+        "cryptoTimestamp": "2018-01-19 13:05:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 4.601e-5,
+        "cryptoTimestamp": "2018-01-19 13:10:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 4.684e-5,
+        "cryptoTimestamp": "2018-01-19 13:15:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 4.63e-5,
+        "cryptoTimestamp": "2018-01-19 13:20:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 4.652e-5,
+        "cryptoTimestamp": "2018-01-19 13:25:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 4.613e-5,
+        "cryptoTimestamp": "2018-01-19 13:30:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 4.669e-5,
+        "cryptoTimestamp": "2018-01-19 13:35:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 4.723e-5,
+        "cryptoTimestamp": "2018-01-19 13:40:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 4.617e-5,
+        "cryptoTimestamp": "2018-01-19 13:45:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 4.629e-5,
+        "cryptoTimestamp": "2018-01-19 13:50:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 4.768e-5,
+        "cryptoTimestamp": "2018-01-19 13:55:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 4.749e-5,
+        "cryptoTimestamp": "2018-01-19 14:00:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 4.801e-5,
+        "cryptoTimestamp": "2018-01-19 14:05:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.007e-5,
+        "cryptoTimestamp": "2018-01-19 14:10:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.409e-5,
+        "cryptoTimestamp": "2018-01-19 14:15:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.4e-5,
+        "cryptoTimestamp": "2018-01-19 14:20:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.217e-5,
+        "cryptoTimestamp": "2018-01-19 14:25:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.222e-5,
+        "cryptoTimestamp": "2018-01-19 14:30:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.321e-5,
+        "cryptoTimestamp": "2018-01-19 14:35:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.376e-5,
+        "cryptoTimestamp": "2018-01-19 14:40:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.453e-5,
+        "cryptoTimestamp": "2018-01-19 14:45:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.597e-5,
+        "cryptoTimestamp": "2018-01-19 14:50:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 6.1e-5,
+        "cryptoTimestamp": "2018-01-19 14:55:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.812e-5,
+        "cryptoTimestamp": "2018-01-19 15:00:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.832e-5,
+        "cryptoTimestamp": "2018-01-19 15:05:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.817e-5,
+        "cryptoTimestamp": "2018-01-19 15:10:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.796e-5,
+        "cryptoTimestamp": "2018-01-19 15:15:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.737e-5,
+        "cryptoTimestamp": "2018-01-19 15:20:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.641e-5,
+        "cryptoTimestamp": "2018-01-19 15:25:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.516e-5,
+        "cryptoTimestamp": "2018-01-19 15:30:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.67e-5,
+        "cryptoTimestamp": "2018-01-19 15:35:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.801e-5,
+        "cryptoTimestamp": "2018-01-19 15:40:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.687e-5,
+        "cryptoTimestamp": "2018-01-19 15:45:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.705e-5,
+        "cryptoTimestamp": "2018-01-19 15:50:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.768e-5,
+        "cryptoTimestamp": "2018-01-19 15:55:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.836e-5,
+        "cryptoTimestamp": "2018-01-19 16:00:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.804e-5,
+        "cryptoTimestamp": "2018-01-19 16:05:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.859e-5,
+        "cryptoTimestamp": "2018-01-19 16:10:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 6.049e-5,
+        "cryptoTimestamp": "2018-01-19 16:15:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 6.25e-5,
+        "cryptoTimestamp": "2018-01-19 16:20:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 6.27e-5,
+        "cryptoTimestamp": "2018-01-19 16:25:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 6.198e-5,
+        "cryptoTimestamp": "2018-01-19 16:30:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 6.092e-5,
+        "cryptoTimestamp": "2018-01-19 16:35:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 6.151e-5,
+        "cryptoTimestamp": "2018-01-19 16:40:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 6.298e-5,
+        "cryptoTimestamp": "2018-01-19 16:45:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 6.237e-5,
+        "cryptoTimestamp": "2018-01-19 16:50:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 6.145e-5,
+        "cryptoTimestamp": "2018-01-19 16:55:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.959e-5,
+        "cryptoTimestamp": "2018-01-19 17:00:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 6.068e-5,
+        "cryptoTimestamp": "2018-01-19 17:05:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.951e-5,
+        "cryptoTimestamp": "2018-01-19 17:10:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 6.003e-5,
+        "cryptoTimestamp": "2018-01-19 17:15:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.907e-5,
+        "cryptoTimestamp": "2018-01-19 17:20:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.851e-5,
+        "cryptoTimestamp": "2018-01-19 17:25:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.843e-5,
+        "cryptoTimestamp": "2018-01-19 17:30:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.959e-5,
+        "cryptoTimestamp": "2018-01-19 17:35:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.858e-5,
+        "cryptoTimestamp": "2018-01-19 17:40:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.903e-5,
+        "cryptoTimestamp": "2018-01-19 17:45:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.752e-5,
+        "cryptoTimestamp": "2018-01-19 17:50:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.722e-5,
+        "cryptoTimestamp": "2018-01-19 17:55:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.741e-5,
+        "cryptoTimestamp": "2018-01-19 18:00:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.633e-5,
+        "cryptoTimestamp": "2018-01-19 18:05:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.715e-5,
+        "cryptoTimestamp": "2018-01-19 18:10:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.746e-5,
+        "cryptoTimestamp": "2018-01-19 18:15:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.726e-5,
+        "cryptoTimestamp": "2018-01-19 18:20:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.658e-5,
+        "cryptoTimestamp": "2018-01-19 18:25:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.558e-5,
+        "cryptoTimestamp": "2018-01-19 18:30:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.619e-5,
+        "cryptoTimestamp": "2018-01-19 18:35:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.645e-5,
+        "cryptoTimestamp": "2018-01-19 18:40:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.72e-5,
+        "cryptoTimestamp": "2018-01-19 18:45:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.68e-5,
+        "cryptoTimestamp": "2018-01-19 18:50:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.679e-5,
+        "cryptoTimestamp": "2018-01-19 18:55:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.682e-5,
+        "cryptoTimestamp": "2018-01-19 19:00:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.723e-5,
+        "cryptoTimestamp": "2018-01-19 19:05:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.708e-5,
+        "cryptoTimestamp": "2018-01-19 19:10:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.7e-5,
+        "cryptoTimestamp": "2018-01-19 19:15:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.682e-5,
+        "cryptoTimestamp": "2018-01-19 19:20:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.639e-5,
+        "cryptoTimestamp": "2018-01-19 19:25:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.556e-5,
+        "cryptoTimestamp": "2018-01-19 19:30:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.64e-5,
+        "cryptoTimestamp": "2018-01-19 19:35:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.524e-5,
+        "cryptoTimestamp": "2018-01-19 19:40:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.572e-5,
+        "cryptoTimestamp": "2018-01-19 19:45:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.581e-5,
+        "cryptoTimestamp": "2018-01-19 19:50:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.643e-5,
+        "cryptoTimestamp": "2018-01-19 19:55:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.569e-5,
+        "cryptoTimestamp": "2018-01-19 20:00:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.596e-5,
+        "cryptoTimestamp": "2018-01-19 20:05:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.595e-5,
+        "cryptoTimestamp": "2018-01-19 20:10:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.599e-5,
+        "cryptoTimestamp": "2018-01-19 20:15:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.604e-5,
+        "cryptoTimestamp": "2018-01-19 20:20:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.606e-5,
+        "cryptoTimestamp": "2018-01-19 20:25:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.531e-5,
+        "cryptoTimestamp": "2018-01-19 20:30:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.572e-5,
+        "cryptoTimestamp": "2018-01-19 20:35:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.595e-5,
+        "cryptoTimestamp": "2018-01-19 20:40:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.646e-5,
+        "cryptoTimestamp": "2018-01-19 20:45:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.638e-5,
+        "cryptoTimestamp": "2018-01-19 20:50:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.571e-5,
+        "cryptoTimestamp": "2018-01-19 20:55:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.629e-5,
+        "cryptoTimestamp": "2018-01-19 21:00:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.584e-5,
+        "cryptoTimestamp": "2018-01-19 21:05:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.585e-5,
+        "cryptoTimestamp": "2018-01-19 21:10:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.585e-5,
+        "cryptoTimestamp": "2018-01-19 21:15:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.569e-5,
+        "cryptoTimestamp": "2018-01-19 21:20:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.569e-5,
+        "cryptoTimestamp": "2018-01-19 21:25:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.58e-5,
+        "cryptoTimestamp": "2018-01-19 21:30:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.618e-5,
+        "cryptoTimestamp": "2018-01-19 21:35:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.53e-5,
+        "cryptoTimestamp": "2018-01-19 21:40:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.618e-5,
+        "cryptoTimestamp": "2018-01-19 21:45:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.594e-5,
+        "cryptoTimestamp": "2018-01-19 21:50:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.646e-5,
+        "cryptoTimestamp": "2018-01-19 21:55:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.645e-5,
+        "cryptoTimestamp": "2018-01-19 22:00:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.597e-5,
+        "cryptoTimestamp": "2018-01-19 22:05:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.689e-5,
+        "cryptoTimestamp": "2018-01-19 22:10:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.69e-5,
+        "cryptoTimestamp": "2018-01-19 22:15:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.706e-5,
+        "cryptoTimestamp": "2018-01-19 22:20:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.638e-5,
+        "cryptoTimestamp": "2018-01-19 22:25:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.638e-5,
+        "cryptoTimestamp": "2018-01-19 22:30:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.716e-5,
+        "cryptoTimestamp": "2018-01-19 22:35:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.654e-5,
+        "cryptoTimestamp": "2018-01-19 22:40:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.663e-5,
+        "cryptoTimestamp": "2018-01-19 22:45:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.723e-5,
+        "cryptoTimestamp": "2018-01-19 22:50:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.69e-5,
+        "cryptoTimestamp": "2018-01-19 22:55:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.659e-5,
+        "cryptoTimestamp": "2018-01-19 23:00:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.649e-5,
+        "cryptoTimestamp": "2018-01-19 23:05:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.697e-5,
+        "cryptoTimestamp": "2018-01-19 23:10:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.597e-5,
+        "cryptoTimestamp": "2018-01-19 23:15:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.614e-5,
+        "cryptoTimestamp": "2018-01-19 23:20:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.608e-5,
+        "cryptoTimestamp": "2018-01-19 23:25:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.666e-5,
+        "cryptoTimestamp": "2018-01-19 23:30:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.664e-5,
+        "cryptoTimestamp": "2018-01-19 23:35:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.673e-5,
+        "cryptoTimestamp": "2018-01-19 23:40:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.609e-5,
+        "cryptoTimestamp": "2018-01-19 23:45:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.628e-5,
+        "cryptoTimestamp": "2018-01-19 23:50:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.641e-5,
+        "cryptoTimestamp": "2018-01-19 23:55:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.78e-5,
+        "cryptoTimestamp": "2018-01-20 00:00:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.849e-5,
+        "cryptoTimestamp": "2018-01-20 00:05:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.786e-5,
+        "cryptoTimestamp": "2018-01-20 00:10:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.88e-5,
+        "cryptoTimestamp": "2018-01-20 00:15:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 6.03e-5,
+        "cryptoTimestamp": "2018-01-20 00:20:00"
+    },
+    {
+        "cryptoCurrency": "MER",
+        "cryptoValue": 5.986e-5,
+        "cryptoTimestamp": "2018-01-20 00:25:00"
     }
 ]
