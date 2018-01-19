@@ -29568,5 +29568,725 @@
         "cryptoCurrency": "UKG",
         "cryptoValue": 7.45e-5,
         "cryptoTimestamp": "2018-01-19 12:40:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.447e-5,
+        "cryptoTimestamp": "2018-01-19 12:45:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.446e-5,
+        "cryptoTimestamp": "2018-01-19 12:50:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.377e-5,
+        "cryptoTimestamp": "2018-01-19 12:55:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.359e-5,
+        "cryptoTimestamp": "2018-01-19 13:00:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.317e-5,
+        "cryptoTimestamp": "2018-01-19 13:05:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.389e-5,
+        "cryptoTimestamp": "2018-01-19 13:10:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.433e-5,
+        "cryptoTimestamp": "2018-01-19 13:15:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.42e-5,
+        "cryptoTimestamp": "2018-01-19 13:20:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.39e-5,
+        "cryptoTimestamp": "2018-01-19 13:25:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.383e-5,
+        "cryptoTimestamp": "2018-01-19 13:30:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.383e-5,
+        "cryptoTimestamp": "2018-01-19 13:35:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.383e-5,
+        "cryptoTimestamp": "2018-01-19 13:40:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.286e-5,
+        "cryptoTimestamp": "2018-01-19 13:45:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.306e-5,
+        "cryptoTimestamp": "2018-01-19 13:50:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.372e-5,
+        "cryptoTimestamp": "2018-01-19 13:55:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.414e-5,
+        "cryptoTimestamp": "2018-01-19 14:00:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.511e-5,
+        "cryptoTimestamp": "2018-01-19 14:05:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.432e-5,
+        "cryptoTimestamp": "2018-01-19 14:10:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.436e-5,
+        "cryptoTimestamp": "2018-01-19 14:15:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.509e-5,
+        "cryptoTimestamp": "2018-01-19 14:20:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.506e-5,
+        "cryptoTimestamp": "2018-01-19 14:25:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.501e-5,
+        "cryptoTimestamp": "2018-01-19 14:30:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.441e-5,
+        "cryptoTimestamp": "2018-01-19 14:35:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.441e-5,
+        "cryptoTimestamp": "2018-01-19 14:40:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.441e-5,
+        "cryptoTimestamp": "2018-01-19 14:45:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.756e-5,
+        "cryptoTimestamp": "2018-01-19 14:50:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.738e-5,
+        "cryptoTimestamp": "2018-01-19 14:55:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.756e-5,
+        "cryptoTimestamp": "2018-01-19 15:00:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.872e-5,
+        "cryptoTimestamp": "2018-01-19 15:05:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.826e-5,
+        "cryptoTimestamp": "2018-01-19 15:10:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.667e-5,
+        "cryptoTimestamp": "2018-01-19 15:15:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.668e-5,
+        "cryptoTimestamp": "2018-01-19 15:20:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.59e-5,
+        "cryptoTimestamp": "2018-01-19 15:25:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.511e-5,
+        "cryptoTimestamp": "2018-01-19 15:30:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.515e-5,
+        "cryptoTimestamp": "2018-01-19 15:35:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.568e-5,
+        "cryptoTimestamp": "2018-01-19 15:40:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.511e-5,
+        "cryptoTimestamp": "2018-01-19 15:45:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.51e-5,
+        "cryptoTimestamp": "2018-01-19 15:50:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.459e-5,
+        "cryptoTimestamp": "2018-01-19 15:55:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.508e-5,
+        "cryptoTimestamp": "2018-01-19 16:00:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.456e-5,
+        "cryptoTimestamp": "2018-01-19 16:05:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.344e-5,
+        "cryptoTimestamp": "2018-01-19 16:10:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.297e-5,
+        "cryptoTimestamp": "2018-01-19 16:15:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.399e-5,
+        "cryptoTimestamp": "2018-01-19 16:20:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.274e-5,
+        "cryptoTimestamp": "2018-01-19 16:25:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.295e-5,
+        "cryptoTimestamp": "2018-01-19 16:30:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.322e-5,
+        "cryptoTimestamp": "2018-01-19 16:35:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.322e-5,
+        "cryptoTimestamp": "2018-01-19 16:40:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.351e-5,
+        "cryptoTimestamp": "2018-01-19 16:45:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.38e-5,
+        "cryptoTimestamp": "2018-01-19 16:50:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.49e-5,
+        "cryptoTimestamp": "2018-01-19 16:55:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.401e-5,
+        "cryptoTimestamp": "2018-01-19 17:00:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.395e-5,
+        "cryptoTimestamp": "2018-01-19 17:05:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.395e-5,
+        "cryptoTimestamp": "2018-01-19 17:10:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.384e-5,
+        "cryptoTimestamp": "2018-01-19 17:15:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.345e-5,
+        "cryptoTimestamp": "2018-01-19 17:20:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.323e-5,
+        "cryptoTimestamp": "2018-01-19 17:25:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.323e-5,
+        "cryptoTimestamp": "2018-01-19 17:30:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.325e-5,
+        "cryptoTimestamp": "2018-01-19 17:35:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.389e-5,
+        "cryptoTimestamp": "2018-01-19 17:40:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.35e-5,
+        "cryptoTimestamp": "2018-01-19 17:45:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.36e-5,
+        "cryptoTimestamp": "2018-01-19 17:50:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.35e-5,
+        "cryptoTimestamp": "2018-01-19 17:55:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.424e-5,
+        "cryptoTimestamp": "2018-01-19 18:00:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.422e-5,
+        "cryptoTimestamp": "2018-01-19 18:05:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.391e-5,
+        "cryptoTimestamp": "2018-01-19 18:10:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.426e-5,
+        "cryptoTimestamp": "2018-01-19 18:15:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.346e-5,
+        "cryptoTimestamp": "2018-01-19 18:20:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.331e-5,
+        "cryptoTimestamp": "2018-01-19 18:25:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.352e-5,
+        "cryptoTimestamp": "2018-01-19 18:30:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.336e-5,
+        "cryptoTimestamp": "2018-01-19 18:35:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.337e-5,
+        "cryptoTimestamp": "2018-01-19 18:40:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.389e-5,
+        "cryptoTimestamp": "2018-01-19 18:45:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.402e-5,
+        "cryptoTimestamp": "2018-01-19 18:50:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.402e-5,
+        "cryptoTimestamp": "2018-01-19 18:55:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.351e-5,
+        "cryptoTimestamp": "2018-01-19 19:00:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.34e-5,
+        "cryptoTimestamp": "2018-01-19 19:05:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.357e-5,
+        "cryptoTimestamp": "2018-01-19 19:10:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.39e-5,
+        "cryptoTimestamp": "2018-01-19 19:15:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.39e-5,
+        "cryptoTimestamp": "2018-01-19 19:20:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.449e-5,
+        "cryptoTimestamp": "2018-01-19 19:25:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.39e-5,
+        "cryptoTimestamp": "2018-01-19 19:30:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.448e-5,
+        "cryptoTimestamp": "2018-01-19 19:35:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.448e-5,
+        "cryptoTimestamp": "2018-01-19 19:40:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.326e-5,
+        "cryptoTimestamp": "2018-01-19 19:45:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.326e-5,
+        "cryptoTimestamp": "2018-01-19 19:50:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.301e-5,
+        "cryptoTimestamp": "2018-01-19 19:55:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.39e-5,
+        "cryptoTimestamp": "2018-01-19 20:00:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.41e-5,
+        "cryptoTimestamp": "2018-01-19 20:05:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.39e-5,
+        "cryptoTimestamp": "2018-01-19 20:10:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.39e-5,
+        "cryptoTimestamp": "2018-01-19 20:15:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.439e-5,
+        "cryptoTimestamp": "2018-01-19 20:20:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.39e-5,
+        "cryptoTimestamp": "2018-01-19 20:25:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.363e-5,
+        "cryptoTimestamp": "2018-01-19 20:30:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.269e-5,
+        "cryptoTimestamp": "2018-01-19 20:35:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.29e-5,
+        "cryptoTimestamp": "2018-01-19 20:40:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.29e-5,
+        "cryptoTimestamp": "2018-01-19 20:45:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.147e-5,
+        "cryptoTimestamp": "2018-01-19 20:50:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.15e-5,
+        "cryptoTimestamp": "2018-01-19 20:55:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.102e-5,
+        "cryptoTimestamp": "2018-01-19 21:00:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.236e-5,
+        "cryptoTimestamp": "2018-01-19 21:05:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.239e-5,
+        "cryptoTimestamp": "2018-01-19 21:10:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.163e-5,
+        "cryptoTimestamp": "2018-01-19 21:15:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.131e-5,
+        "cryptoTimestamp": "2018-01-19 21:20:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.199e-5,
+        "cryptoTimestamp": "2018-01-19 21:25:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.131e-5,
+        "cryptoTimestamp": "2018-01-19 21:30:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.134e-5,
+        "cryptoTimestamp": "2018-01-19 21:35:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.141e-5,
+        "cryptoTimestamp": "2018-01-19 21:40:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.167e-5,
+        "cryptoTimestamp": "2018-01-19 21:45:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.212e-5,
+        "cryptoTimestamp": "2018-01-19 21:50:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.212e-5,
+        "cryptoTimestamp": "2018-01-19 21:55:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.25e-5,
+        "cryptoTimestamp": "2018-01-19 22:00:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.25e-5,
+        "cryptoTimestamp": "2018-01-19 22:05:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.282e-5,
+        "cryptoTimestamp": "2018-01-19 22:10:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.25e-5,
+        "cryptoTimestamp": "2018-01-19 22:15:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.251e-5,
+        "cryptoTimestamp": "2018-01-19 22:20:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.212e-5,
+        "cryptoTimestamp": "2018-01-19 22:25:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.168e-5,
+        "cryptoTimestamp": "2018-01-19 22:30:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.169e-5,
+        "cryptoTimestamp": "2018-01-19 22:35:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.169e-5,
+        "cryptoTimestamp": "2018-01-19 22:40:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.224e-5,
+        "cryptoTimestamp": "2018-01-19 22:45:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.227e-5,
+        "cryptoTimestamp": "2018-01-19 22:50:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.162e-5,
+        "cryptoTimestamp": "2018-01-19 22:55:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.163e-5,
+        "cryptoTimestamp": "2018-01-19 23:00:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.215e-5,
+        "cryptoTimestamp": "2018-01-19 23:05:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.215e-5,
+        "cryptoTimestamp": "2018-01-19 23:10:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.281e-5,
+        "cryptoTimestamp": "2018-01-19 23:15:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.34e-5,
+        "cryptoTimestamp": "2018-01-19 23:20:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.316e-5,
+        "cryptoTimestamp": "2018-01-19 23:25:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.312e-5,
+        "cryptoTimestamp": "2018-01-19 23:30:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.307e-5,
+        "cryptoTimestamp": "2018-01-19 23:35:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.18e-5,
+        "cryptoTimestamp": "2018-01-19 23:40:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.197e-5,
+        "cryptoTimestamp": "2018-01-19 23:45:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.197e-5,
+        "cryptoTimestamp": "2018-01-19 23:50:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.197e-5,
+        "cryptoTimestamp": "2018-01-19 23:55:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.19e-5,
+        "cryptoTimestamp": "2018-01-20 00:00:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.139e-5,
+        "cryptoTimestamp": "2018-01-20 00:05:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.166e-5,
+        "cryptoTimestamp": "2018-01-20 00:10:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.12e-5,
+        "cryptoTimestamp": "2018-01-20 00:15:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.183e-5,
+        "cryptoTimestamp": "2018-01-20 00:20:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.23e-5,
+        "cryptoTimestamp": "2018-01-20 00:25:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.284e-5,
+        "cryptoTimestamp": "2018-01-20 00:30:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.32e-5,
+        "cryptoTimestamp": "2018-01-20 00:35:00"
+    },
+    {
+        "cryptoCurrency": "UKG",
+        "cryptoValue": 7.285e-5,
+        "cryptoTimestamp": "2018-01-20 00:40:00"
     }
 ]
