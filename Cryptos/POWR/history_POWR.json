@@ -95683,5 +95683,725 @@
         "cryptoCurrency": "POWR",
         "cryptoValue": 0.00010055,
         "cryptoTimestamp": "2018-01-19 12:30:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010145,
+        "cryptoTimestamp": "2018-01-19 12:35:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010021,
+        "cryptoTimestamp": "2018-01-19 12:40:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 9.959e-5,
+        "cryptoTimestamp": "2018-01-19 12:45:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010135,
+        "cryptoTimestamp": "2018-01-19 12:50:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010145,
+        "cryptoTimestamp": "2018-01-19 12:55:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010027,
+        "cryptoTimestamp": "2018-01-19 13:00:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010042,
+        "cryptoTimestamp": "2018-01-19 13:05:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010047,
+        "cryptoTimestamp": "2018-01-19 13:10:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010132,
+        "cryptoTimestamp": "2018-01-19 13:15:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010036,
+        "cryptoTimestamp": "2018-01-19 13:20:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001005,
+        "cryptoTimestamp": "2018-01-19 13:25:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010013,
+        "cryptoTimestamp": "2018-01-19 13:30:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001007,
+        "cryptoTimestamp": "2018-01-19 13:35:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001004,
+        "cryptoTimestamp": "2018-01-19 13:40:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010016,
+        "cryptoTimestamp": "2018-01-19 13:45:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010014,
+        "cryptoTimestamp": "2018-01-19 13:50:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 9.928e-5,
+        "cryptoTimestamp": "2018-01-19 13:55:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 9.971e-5,
+        "cryptoTimestamp": "2018-01-19 14:00:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 9.972e-5,
+        "cryptoTimestamp": "2018-01-19 14:05:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001005,
+        "cryptoTimestamp": "2018-01-19 14:10:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001006,
+        "cryptoTimestamp": "2018-01-19 14:15:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010256,
+        "cryptoTimestamp": "2018-01-19 14:20:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010113,
+        "cryptoTimestamp": "2018-01-19 14:25:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010122,
+        "cryptoTimestamp": "2018-01-19 14:30:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010194,
+        "cryptoTimestamp": "2018-01-19 14:35:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010232,
+        "cryptoTimestamp": "2018-01-19 14:40:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001032,
+        "cryptoTimestamp": "2018-01-19 14:45:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001032,
+        "cryptoTimestamp": "2018-01-19 14:50:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010354,
+        "cryptoTimestamp": "2018-01-19 14:55:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010238,
+        "cryptoTimestamp": "2018-01-19 15:00:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.000103,
+        "cryptoTimestamp": "2018-01-19 15:05:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010338,
+        "cryptoTimestamp": "2018-01-19 15:10:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010289,
+        "cryptoTimestamp": "2018-01-19 15:15:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010249,
+        "cryptoTimestamp": "2018-01-19 15:20:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010255,
+        "cryptoTimestamp": "2018-01-19 15:25:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010186,
+        "cryptoTimestamp": "2018-01-19 15:30:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.000101,
+        "cryptoTimestamp": "2018-01-19 15:35:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010141,
+        "cryptoTimestamp": "2018-01-19 15:40:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010166,
+        "cryptoTimestamp": "2018-01-19 15:45:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010104,
+        "cryptoTimestamp": "2018-01-19 15:50:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001005,
+        "cryptoTimestamp": "2018-01-19 15:55:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010014,
+        "cryptoTimestamp": "2018-01-19 16:00:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 9.97e-5,
+        "cryptoTimestamp": "2018-01-19 16:05:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010005,
+        "cryptoTimestamp": "2018-01-19 16:10:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010005,
+        "cryptoTimestamp": "2018-01-19 16:15:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010045,
+        "cryptoTimestamp": "2018-01-19 16:20:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010308,
+        "cryptoTimestamp": "2018-01-19 16:25:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010245,
+        "cryptoTimestamp": "2018-01-19 16:30:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010077,
+        "cryptoTimestamp": "2018-01-19 16:35:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010221,
+        "cryptoTimestamp": "2018-01-19 16:40:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010293,
+        "cryptoTimestamp": "2018-01-19 16:45:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010206,
+        "cryptoTimestamp": "2018-01-19 16:50:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010301,
+        "cryptoTimestamp": "2018-01-19 16:55:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010695,
+        "cryptoTimestamp": "2018-01-19 17:00:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010752,
+        "cryptoTimestamp": "2018-01-19 17:05:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010673,
+        "cryptoTimestamp": "2018-01-19 17:10:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010558,
+        "cryptoTimestamp": "2018-01-19 17:15:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010559,
+        "cryptoTimestamp": "2018-01-19 17:20:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010626,
+        "cryptoTimestamp": "2018-01-19 17:25:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001063,
+        "cryptoTimestamp": "2018-01-19 17:30:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010574,
+        "cryptoTimestamp": "2018-01-19 17:35:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010849,
+        "cryptoTimestamp": "2018-01-19 17:40:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001083,
+        "cryptoTimestamp": "2018-01-19 17:45:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010725,
+        "cryptoTimestamp": "2018-01-19 17:50:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010798,
+        "cryptoTimestamp": "2018-01-19 17:55:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010722,
+        "cryptoTimestamp": "2018-01-19 18:00:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010506,
+        "cryptoTimestamp": "2018-01-19 18:05:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001046,
+        "cryptoTimestamp": "2018-01-19 18:10:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001049,
+        "cryptoTimestamp": "2018-01-19 18:15:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001049,
+        "cryptoTimestamp": "2018-01-19 18:20:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010459,
+        "cryptoTimestamp": "2018-01-19 18:25:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010361,
+        "cryptoTimestamp": "2018-01-19 18:30:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010293,
+        "cryptoTimestamp": "2018-01-19 18:35:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010391,
+        "cryptoTimestamp": "2018-01-19 18:40:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010286,
+        "cryptoTimestamp": "2018-01-19 18:45:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010349,
+        "cryptoTimestamp": "2018-01-19 18:50:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010279,
+        "cryptoTimestamp": "2018-01-19 18:55:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010303,
+        "cryptoTimestamp": "2018-01-19 19:00:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001021,
+        "cryptoTimestamp": "2018-01-19 19:05:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001021,
+        "cryptoTimestamp": "2018-01-19 19:10:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010191,
+        "cryptoTimestamp": "2018-01-19 19:15:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010243,
+        "cryptoTimestamp": "2018-01-19 19:20:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010128,
+        "cryptoTimestamp": "2018-01-19 19:25:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010139,
+        "cryptoTimestamp": "2018-01-19 19:30:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010273,
+        "cryptoTimestamp": "2018-01-19 19:35:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010269,
+        "cryptoTimestamp": "2018-01-19 19:40:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010219,
+        "cryptoTimestamp": "2018-01-19 19:45:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010216,
+        "cryptoTimestamp": "2018-01-19 19:50:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.000102,
+        "cryptoTimestamp": "2018-01-19 19:55:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010121,
+        "cryptoTimestamp": "2018-01-19 20:00:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010218,
+        "cryptoTimestamp": "2018-01-19 20:05:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001023,
+        "cryptoTimestamp": "2018-01-19 20:10:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010256,
+        "cryptoTimestamp": "2018-01-19 20:15:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010128,
+        "cryptoTimestamp": "2018-01-19 20:20:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010219,
+        "cryptoTimestamp": "2018-01-19 20:25:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010189,
+        "cryptoTimestamp": "2018-01-19 20:30:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010171,
+        "cryptoTimestamp": "2018-01-19 20:35:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010187,
+        "cryptoTimestamp": "2018-01-19 20:40:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010187,
+        "cryptoTimestamp": "2018-01-19 20:45:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010188,
+        "cryptoTimestamp": "2018-01-19 20:50:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010188,
+        "cryptoTimestamp": "2018-01-19 20:55:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010161,
+        "cryptoTimestamp": "2018-01-19 21:00:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010161,
+        "cryptoTimestamp": "2018-01-19 21:05:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001024,
+        "cryptoTimestamp": "2018-01-19 21:10:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.000102,
+        "cryptoTimestamp": "2018-01-19 21:15:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010113,
+        "cryptoTimestamp": "2018-01-19 21:20:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010238,
+        "cryptoTimestamp": "2018-01-19 21:25:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010216,
+        "cryptoTimestamp": "2018-01-19 21:30:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010216,
+        "cryptoTimestamp": "2018-01-19 21:35:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010118,
+        "cryptoTimestamp": "2018-01-19 21:40:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010086,
+        "cryptoTimestamp": "2018-01-19 21:45:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001008,
+        "cryptoTimestamp": "2018-01-19 21:50:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010085,
+        "cryptoTimestamp": "2018-01-19 21:55:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010084,
+        "cryptoTimestamp": "2018-01-19 22:00:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001007,
+        "cryptoTimestamp": "2018-01-19 22:05:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001006,
+        "cryptoTimestamp": "2018-01-19 22:10:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001006,
+        "cryptoTimestamp": "2018-01-19 22:15:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.000101,
+        "cryptoTimestamp": "2018-01-19 22:20:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010169,
+        "cryptoTimestamp": "2018-01-19 22:25:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010169,
+        "cryptoTimestamp": "2018-01-19 22:30:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010169,
+        "cryptoTimestamp": "2018-01-19 22:35:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010122,
+        "cryptoTimestamp": "2018-01-19 22:40:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010165,
+        "cryptoTimestamp": "2018-01-19 22:45:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010006,
+        "cryptoTimestamp": "2018-01-19 22:50:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010165,
+        "cryptoTimestamp": "2018-01-19 22:55:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010164,
+        "cryptoTimestamp": "2018-01-19 23:00:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001007,
+        "cryptoTimestamp": "2018-01-19 23:05:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010064,
+        "cryptoTimestamp": "2018-01-19 23:10:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010061,
+        "cryptoTimestamp": "2018-01-19 23:15:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010061,
+        "cryptoTimestamp": "2018-01-19 23:20:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010128,
+        "cryptoTimestamp": "2018-01-19 23:25:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010066,
+        "cryptoTimestamp": "2018-01-19 23:30:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001009,
+        "cryptoTimestamp": "2018-01-19 23:35:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010129,
+        "cryptoTimestamp": "2018-01-19 23:40:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001013,
+        "cryptoTimestamp": "2018-01-19 23:45:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001013,
+        "cryptoTimestamp": "2018-01-19 23:50:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.0001013,
+        "cryptoTimestamp": "2018-01-19 23:55:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010101,
+        "cryptoTimestamp": "2018-01-20 00:00:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010102,
+        "cryptoTimestamp": "2018-01-20 00:05:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010164,
+        "cryptoTimestamp": "2018-01-20 00:10:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010169,
+        "cryptoTimestamp": "2018-01-20 00:15:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010238,
+        "cryptoTimestamp": "2018-01-20 00:20:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010238,
+        "cryptoTimestamp": "2018-01-20 00:25:00"
+    },
+    {
+        "cryptoCurrency": "POWR",
+        "cryptoValue": 0.00010238,
+        "cryptoTimestamp": "2018-01-20 00:30:00"
     }
 ]
