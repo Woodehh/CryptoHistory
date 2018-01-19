@@ -123225,4 +123225,724 @@
     <cryptoValue>0.000101</cryptoValue>
     <cryptoTimestamp>2018-01-19 12:40:00</cryptoTimestamp>
   </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010002</cryptoValue>
+    <cryptoTimestamp>2018-01-19 12:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010056</cryptoValue>
+    <cryptoTimestamp>2018-01-19 12:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010006</cryptoValue>
+    <cryptoTimestamp>2018-01-19 12:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010011</cryptoValue>
+    <cryptoTimestamp>2018-01-19 13:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010019</cryptoValue>
+    <cryptoTimestamp>2018-01-19 13:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010021</cryptoValue>
+    <cryptoTimestamp>2018-01-19 13:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>9.999E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-19 13:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001</cryptoValue>
+    <cryptoTimestamp>2018-01-19 13:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001</cryptoValue>
+    <cryptoTimestamp>2018-01-19 13:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>9.999E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-19 13:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>9.773E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-19 13:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>9.999E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-19 13:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>9.998E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-19 13:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>9.998E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-19 13:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>9.845E-5</cryptoValue>
+    <cryptoTimestamp>2018-01-19 13:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010059</cryptoValue>
+    <cryptoTimestamp>2018-01-19 14:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010161</cryptoValue>
+    <cryptoTimestamp>2018-01-19 14:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010183</cryptoValue>
+    <cryptoTimestamp>2018-01-19 14:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010474</cryptoValue>
+    <cryptoTimestamp>2018-01-19 14:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001079</cryptoValue>
+    <cryptoTimestamp>2018-01-19 14:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010546</cryptoValue>
+    <cryptoTimestamp>2018-01-19 14:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010656</cryptoValue>
+    <cryptoTimestamp>2018-01-19 14:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010966</cryptoValue>
+    <cryptoTimestamp>2018-01-19 14:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001081</cryptoValue>
+    <cryptoTimestamp>2018-01-19 14:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010817</cryptoValue>
+    <cryptoTimestamp>2018-01-19 14:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00011215</cryptoValue>
+    <cryptoTimestamp>2018-01-19 14:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00011316</cryptoValue>
+    <cryptoTimestamp>2018-01-19 14:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001137</cryptoValue>
+    <cryptoTimestamp>2018-01-19 15:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00011089</cryptoValue>
+    <cryptoTimestamp>2018-01-19 15:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010855</cryptoValue>
+    <cryptoTimestamp>2018-01-19 15:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001087</cryptoValue>
+    <cryptoTimestamp>2018-01-19 15:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010834</cryptoValue>
+    <cryptoTimestamp>2018-01-19 15:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001115</cryptoValue>
+    <cryptoTimestamp>2018-01-19 15:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010785</cryptoValue>
+    <cryptoTimestamp>2018-01-19 15:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010558</cryptoValue>
+    <cryptoTimestamp>2018-01-19 15:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010483</cryptoValue>
+    <cryptoTimestamp>2018-01-19 15:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010747</cryptoValue>
+    <cryptoTimestamp>2018-01-19 15:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001046</cryptoValue>
+    <cryptoTimestamp>2018-01-19 15:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001041</cryptoValue>
+    <cryptoTimestamp>2018-01-19 15:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.000107</cryptoValue>
+    <cryptoTimestamp>2018-01-19 16:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.000107</cryptoValue>
+    <cryptoTimestamp>2018-01-19 16:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010702</cryptoValue>
+    <cryptoTimestamp>2018-01-19 16:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.000107</cryptoValue>
+    <cryptoTimestamp>2018-01-19 16:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001083</cryptoValue>
+    <cryptoTimestamp>2018-01-19 16:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010771</cryptoValue>
+    <cryptoTimestamp>2018-01-19 16:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.000107</cryptoValue>
+    <cryptoTimestamp>2018-01-19 16:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010561</cryptoValue>
+    <cryptoTimestamp>2018-01-19 16:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010462</cryptoValue>
+    <cryptoTimestamp>2018-01-19 16:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010694</cryptoValue>
+    <cryptoTimestamp>2018-01-19 16:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010918</cryptoValue>
+    <cryptoTimestamp>2018-01-19 16:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00011</cryptoValue>
+    <cryptoTimestamp>2018-01-19 16:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00011175</cryptoValue>
+    <cryptoTimestamp>2018-01-19 17:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00011171</cryptoValue>
+    <cryptoTimestamp>2018-01-19 17:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010975</cryptoValue>
+    <cryptoTimestamp>2018-01-19 17:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010932</cryptoValue>
+    <cryptoTimestamp>2018-01-19 17:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010923</cryptoValue>
+    <cryptoTimestamp>2018-01-19 17:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00011388</cryptoValue>
+    <cryptoTimestamp>2018-01-19 17:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00011161</cryptoValue>
+    <cryptoTimestamp>2018-01-19 17:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00011264</cryptoValue>
+    <cryptoTimestamp>2018-01-19 17:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00011378</cryptoValue>
+    <cryptoTimestamp>2018-01-19 17:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001138</cryptoValue>
+    <cryptoTimestamp>2018-01-19 17:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001149</cryptoValue>
+    <cryptoTimestamp>2018-01-19 17:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00011189</cryptoValue>
+    <cryptoTimestamp>2018-01-19 17:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00011155</cryptoValue>
+    <cryptoTimestamp>2018-01-19 18:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001135</cryptoValue>
+    <cryptoTimestamp>2018-01-19 18:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010928</cryptoValue>
+    <cryptoTimestamp>2018-01-19 18:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001093</cryptoValue>
+    <cryptoTimestamp>2018-01-19 18:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010988</cryptoValue>
+    <cryptoTimestamp>2018-01-19 18:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.000109</cryptoValue>
+    <cryptoTimestamp>2018-01-19 18:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010755</cryptoValue>
+    <cryptoTimestamp>2018-01-19 18:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010778</cryptoValue>
+    <cryptoTimestamp>2018-01-19 18:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010733</cryptoValue>
+    <cryptoTimestamp>2018-01-19 18:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010782</cryptoValue>
+    <cryptoTimestamp>2018-01-19 18:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00011048</cryptoValue>
+    <cryptoTimestamp>2018-01-19 18:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001076</cryptoValue>
+    <cryptoTimestamp>2018-01-19 18:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010766</cryptoValue>
+    <cryptoTimestamp>2018-01-19 19:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010673</cryptoValue>
+    <cryptoTimestamp>2018-01-19 19:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010709</cryptoValue>
+    <cryptoTimestamp>2018-01-19 19:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010643</cryptoValue>
+    <cryptoTimestamp>2018-01-19 19:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010628</cryptoValue>
+    <cryptoTimestamp>2018-01-19 19:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010428</cryptoValue>
+    <cryptoTimestamp>2018-01-19 19:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010512</cryptoValue>
+    <cryptoTimestamp>2018-01-19 19:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010514</cryptoValue>
+    <cryptoTimestamp>2018-01-19 19:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010512</cryptoValue>
+    <cryptoTimestamp>2018-01-19 19:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010519</cryptoValue>
+    <cryptoTimestamp>2018-01-19 19:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001055</cryptoValue>
+    <cryptoTimestamp>2018-01-19 19:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010657</cryptoValue>
+    <cryptoTimestamp>2018-01-19 19:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010665</cryptoValue>
+    <cryptoTimestamp>2018-01-19 20:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010799</cryptoValue>
+    <cryptoTimestamp>2018-01-19 20:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010799</cryptoValue>
+    <cryptoTimestamp>2018-01-19 20:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010936</cryptoValue>
+    <cryptoTimestamp>2018-01-19 20:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010801</cryptoValue>
+    <cryptoTimestamp>2018-01-19 20:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010913</cryptoValue>
+    <cryptoTimestamp>2018-01-19 20:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010913</cryptoValue>
+    <cryptoTimestamp>2018-01-19 20:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001054</cryptoValue>
+    <cryptoTimestamp>2018-01-19 20:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010658</cryptoValue>
+    <cryptoTimestamp>2018-01-19 20:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010616</cryptoValue>
+    <cryptoTimestamp>2018-01-19 20:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010617</cryptoValue>
+    <cryptoTimestamp>2018-01-19 20:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010617</cryptoValue>
+    <cryptoTimestamp>2018-01-19 20:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001055</cryptoValue>
+    <cryptoTimestamp>2018-01-19 21:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001055</cryptoValue>
+    <cryptoTimestamp>2018-01-19 21:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001094</cryptoValue>
+    <cryptoTimestamp>2018-01-19 21:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00011096</cryptoValue>
+    <cryptoTimestamp>2018-01-19 21:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010943</cryptoValue>
+    <cryptoTimestamp>2018-01-19 21:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001094</cryptoValue>
+    <cryptoTimestamp>2018-01-19 21:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001094</cryptoValue>
+    <cryptoTimestamp>2018-01-19 21:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010746</cryptoValue>
+    <cryptoTimestamp>2018-01-19 21:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00011133</cryptoValue>
+    <cryptoTimestamp>2018-01-19 21:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00011133</cryptoValue>
+    <cryptoTimestamp>2018-01-19 21:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010815</cryptoValue>
+    <cryptoTimestamp>2018-01-19 21:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010798</cryptoValue>
+    <cryptoTimestamp>2018-01-19 21:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010555</cryptoValue>
+    <cryptoTimestamp>2018-01-19 22:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010555</cryptoValue>
+    <cryptoTimestamp>2018-01-19 22:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001071</cryptoValue>
+    <cryptoTimestamp>2018-01-19 22:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010707</cryptoValue>
+    <cryptoTimestamp>2018-01-19 22:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010707</cryptoValue>
+    <cryptoTimestamp>2018-01-19 22:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010707</cryptoValue>
+    <cryptoTimestamp>2018-01-19 22:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010905</cryptoValue>
+    <cryptoTimestamp>2018-01-19 22:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010905</cryptoValue>
+    <cryptoTimestamp>2018-01-19 22:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010905</cryptoValue>
+    <cryptoTimestamp>2018-01-19 22:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010905</cryptoValue>
+    <cryptoTimestamp>2018-01-19 22:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010899</cryptoValue>
+    <cryptoTimestamp>2018-01-19 22:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.000109</cryptoValue>
+    <cryptoTimestamp>2018-01-19 22:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010899</cryptoValue>
+    <cryptoTimestamp>2018-01-19 23:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010899</cryptoValue>
+    <cryptoTimestamp>2018-01-19 23:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001077</cryptoValue>
+    <cryptoTimestamp>2018-01-19 23:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001077</cryptoValue>
+    <cryptoTimestamp>2018-01-19 23:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001077</cryptoValue>
+    <cryptoTimestamp>2018-01-19 23:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001077</cryptoValue>
+    <cryptoTimestamp>2018-01-19 23:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001075</cryptoValue>
+    <cryptoTimestamp>2018-01-19 23:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010891</cryptoValue>
+    <cryptoTimestamp>2018-01-19 23:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010891</cryptoValue>
+    <cryptoTimestamp>2018-01-19 23:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010905</cryptoValue>
+    <cryptoTimestamp>2018-01-19 23:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010907</cryptoValue>
+    <cryptoTimestamp>2018-01-19 23:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010913</cryptoValue>
+    <cryptoTimestamp>2018-01-19 23:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010913</cryptoValue>
+    <cryptoTimestamp>2018-01-20 00:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010948</cryptoValue>
+    <cryptoTimestamp>2018-01-20 00:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010914</cryptoValue>
+    <cryptoTimestamp>2018-01-20 00:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010891</cryptoValue>
+    <cryptoTimestamp>2018-01-20 00:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010889</cryptoValue>
+    <cryptoTimestamp>2018-01-20 00:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001095</cryptoValue>
+    <cryptoTimestamp>2018-01-20 00:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010949</cryptoValue>
+    <cryptoTimestamp>2018-01-20 00:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.00010949</cryptoValue>
+    <cryptoTimestamp>2018-01-20 00:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>TIX</cryptoCurrency>
+    <cryptoValue>0.0001095</cryptoValue>
+    <cryptoTimestamp>2018-01-20 00:40:00</cryptoTimestamp>
+  </item>
 </item>
