@@ -143883,5 +143883,725 @@
         "cryptoCurrency": "DNT",
         "cryptoValue": 1.735e-5,
         "cryptoTimestamp": "2018-01-20 00:10:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.775e-5,
+        "cryptoTimestamp": "2018-01-20 00:15:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.81e-5,
+        "cryptoTimestamp": "2018-01-20 00:20:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.798e-5,
+        "cryptoTimestamp": "2018-01-20 00:25:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.809e-5,
+        "cryptoTimestamp": "2018-01-20 00:30:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.823e-5,
+        "cryptoTimestamp": "2018-01-20 00:35:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.8e-5,
+        "cryptoTimestamp": "2018-01-20 00:40:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.812e-5,
+        "cryptoTimestamp": "2018-01-20 00:45:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.774e-5,
+        "cryptoTimestamp": "2018-01-20 00:50:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.778e-5,
+        "cryptoTimestamp": "2018-01-20 00:55:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.768e-5,
+        "cryptoTimestamp": "2018-01-20 01:00:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.721e-5,
+        "cryptoTimestamp": "2018-01-20 01:05:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.733e-5,
+        "cryptoTimestamp": "2018-01-20 01:10:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.744e-5,
+        "cryptoTimestamp": "2018-01-20 01:15:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.699e-5,
+        "cryptoTimestamp": "2018-01-20 01:20:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.698e-5,
+        "cryptoTimestamp": "2018-01-20 01:25:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.689e-5,
+        "cryptoTimestamp": "2018-01-20 01:30:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.714e-5,
+        "cryptoTimestamp": "2018-01-20 01:35:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.734e-5,
+        "cryptoTimestamp": "2018-01-20 01:40:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.734e-5,
+        "cryptoTimestamp": "2018-01-20 01:45:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.73e-5,
+        "cryptoTimestamp": "2018-01-20 01:50:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.751e-5,
+        "cryptoTimestamp": "2018-01-20 01:55:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.812e-5,
+        "cryptoTimestamp": "2018-01-20 02:00:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.889e-5,
+        "cryptoTimestamp": "2018-01-20 02:05:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.904e-5,
+        "cryptoTimestamp": "2018-01-20 02:10:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.849e-5,
+        "cryptoTimestamp": "2018-01-20 02:15:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.89e-5,
+        "cryptoTimestamp": "2018-01-20 02:20:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.849e-5,
+        "cryptoTimestamp": "2018-01-20 02:25:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.83e-5,
+        "cryptoTimestamp": "2018-01-20 02:30:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.839e-5,
+        "cryptoTimestamp": "2018-01-20 02:35:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.838e-5,
+        "cryptoTimestamp": "2018-01-20 02:40:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.87e-5,
+        "cryptoTimestamp": "2018-01-20 02:45:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.912e-5,
+        "cryptoTimestamp": "2018-01-20 02:50:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.892e-5,
+        "cryptoTimestamp": "2018-01-20 02:55:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.916e-5,
+        "cryptoTimestamp": "2018-01-20 03:00:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.922e-5,
+        "cryptoTimestamp": "2018-01-20 03:05:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.89e-5,
+        "cryptoTimestamp": "2018-01-20 03:10:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.826e-5,
+        "cryptoTimestamp": "2018-01-20 03:15:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.809e-5,
+        "cryptoTimestamp": "2018-01-20 03:20:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.805e-5,
+        "cryptoTimestamp": "2018-01-20 03:25:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.801e-5,
+        "cryptoTimestamp": "2018-01-20 03:30:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.8e-5,
+        "cryptoTimestamp": "2018-01-20 03:35:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.824e-5,
+        "cryptoTimestamp": "2018-01-20 03:40:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.801e-5,
+        "cryptoTimestamp": "2018-01-20 03:45:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.79e-5,
+        "cryptoTimestamp": "2018-01-20 03:50:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.775e-5,
+        "cryptoTimestamp": "2018-01-20 03:55:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.771e-5,
+        "cryptoTimestamp": "2018-01-20 04:00:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.737e-5,
+        "cryptoTimestamp": "2018-01-20 04:05:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.728e-5,
+        "cryptoTimestamp": "2018-01-20 04:10:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.711e-5,
+        "cryptoTimestamp": "2018-01-20 04:15:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.718e-5,
+        "cryptoTimestamp": "2018-01-20 04:20:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.718e-5,
+        "cryptoTimestamp": "2018-01-20 04:25:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.714e-5,
+        "cryptoTimestamp": "2018-01-20 04:30:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.703e-5,
+        "cryptoTimestamp": "2018-01-20 04:35:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.696e-5,
+        "cryptoTimestamp": "2018-01-20 04:40:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.721e-5,
+        "cryptoTimestamp": "2018-01-20 04:45:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.717e-5,
+        "cryptoTimestamp": "2018-01-20 04:50:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.715e-5,
+        "cryptoTimestamp": "2018-01-20 04:55:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.715e-5,
+        "cryptoTimestamp": "2018-01-20 05:00:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.708e-5,
+        "cryptoTimestamp": "2018-01-20 05:05:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.692e-5,
+        "cryptoTimestamp": "2018-01-20 05:10:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.7e-5,
+        "cryptoTimestamp": "2018-01-20 05:15:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.707e-5,
+        "cryptoTimestamp": "2018-01-20 05:20:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.692e-5,
+        "cryptoTimestamp": "2018-01-20 05:25:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.67e-5,
+        "cryptoTimestamp": "2018-01-20 05:30:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.65e-5,
+        "cryptoTimestamp": "2018-01-20 05:35:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.663e-5,
+        "cryptoTimestamp": "2018-01-20 05:40:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.626e-5,
+        "cryptoTimestamp": "2018-01-20 05:45:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.618e-5,
+        "cryptoTimestamp": "2018-01-20 05:50:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.618e-5,
+        "cryptoTimestamp": "2018-01-20 05:55:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.598e-5,
+        "cryptoTimestamp": "2018-01-20 06:00:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.591e-5,
+        "cryptoTimestamp": "2018-01-20 06:05:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.595e-5,
+        "cryptoTimestamp": "2018-01-20 06:10:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.588e-5,
+        "cryptoTimestamp": "2018-01-20 06:15:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.587e-5,
+        "cryptoTimestamp": "2018-01-20 06:20:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.603e-5,
+        "cryptoTimestamp": "2018-01-20 06:25:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.605e-5,
+        "cryptoTimestamp": "2018-01-20 06:30:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.601e-5,
+        "cryptoTimestamp": "2018-01-20 06:35:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.618e-5,
+        "cryptoTimestamp": "2018-01-20 06:40:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.586e-5,
+        "cryptoTimestamp": "2018-01-20 06:45:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.586e-5,
+        "cryptoTimestamp": "2018-01-20 06:50:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.589e-5,
+        "cryptoTimestamp": "2018-01-20 06:55:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.562e-5,
+        "cryptoTimestamp": "2018-01-20 07:00:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.583e-5,
+        "cryptoTimestamp": "2018-01-20 07:05:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.568e-5,
+        "cryptoTimestamp": "2018-01-20 07:10:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.592e-5,
+        "cryptoTimestamp": "2018-01-20 07:15:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.601e-5,
+        "cryptoTimestamp": "2018-01-20 07:20:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.61e-5,
+        "cryptoTimestamp": "2018-01-20 07:25:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.632e-5,
+        "cryptoTimestamp": "2018-01-20 07:30:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.648e-5,
+        "cryptoTimestamp": "2018-01-20 07:35:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.626e-5,
+        "cryptoTimestamp": "2018-01-20 07:40:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.635e-5,
+        "cryptoTimestamp": "2018-01-20 07:45:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.641e-5,
+        "cryptoTimestamp": "2018-01-20 07:50:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.645e-5,
+        "cryptoTimestamp": "2018-01-20 07:55:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.645e-5,
+        "cryptoTimestamp": "2018-01-20 08:00:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.641e-5,
+        "cryptoTimestamp": "2018-01-20 08:05:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.647e-5,
+        "cryptoTimestamp": "2018-01-20 08:10:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.65e-5,
+        "cryptoTimestamp": "2018-01-20 08:15:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.642e-5,
+        "cryptoTimestamp": "2018-01-20 08:20:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.635e-5,
+        "cryptoTimestamp": "2018-01-20 08:25:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.635e-5,
+        "cryptoTimestamp": "2018-01-20 08:30:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.6e-5,
+        "cryptoTimestamp": "2018-01-20 08:35:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.6e-5,
+        "cryptoTimestamp": "2018-01-20 08:40:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.594e-5,
+        "cryptoTimestamp": "2018-01-20 08:45:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.595e-5,
+        "cryptoTimestamp": "2018-01-20 08:50:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.614e-5,
+        "cryptoTimestamp": "2018-01-20 08:55:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.605e-5,
+        "cryptoTimestamp": "2018-01-20 09:00:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.599e-5,
+        "cryptoTimestamp": "2018-01-20 09:05:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.595e-5,
+        "cryptoTimestamp": "2018-01-20 09:10:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.601e-5,
+        "cryptoTimestamp": "2018-01-20 09:15:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.603e-5,
+        "cryptoTimestamp": "2018-01-20 09:20:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.608e-5,
+        "cryptoTimestamp": "2018-01-20 09:25:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.613e-5,
+        "cryptoTimestamp": "2018-01-20 09:30:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.608e-5,
+        "cryptoTimestamp": "2018-01-20 09:35:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.609e-5,
+        "cryptoTimestamp": "2018-01-20 09:40:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.613e-5,
+        "cryptoTimestamp": "2018-01-20 09:45:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.612e-5,
+        "cryptoTimestamp": "2018-01-20 09:50:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.58e-5,
+        "cryptoTimestamp": "2018-01-20 09:55:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.609e-5,
+        "cryptoTimestamp": "2018-01-20 10:00:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.599e-5,
+        "cryptoTimestamp": "2018-01-20 10:05:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.591e-5,
+        "cryptoTimestamp": "2018-01-20 10:10:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.598e-5,
+        "cryptoTimestamp": "2018-01-20 10:15:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.581e-5,
+        "cryptoTimestamp": "2018-01-20 10:20:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.599e-5,
+        "cryptoTimestamp": "2018-01-20 10:25:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.574e-5,
+        "cryptoTimestamp": "2018-01-20 10:30:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.559e-5,
+        "cryptoTimestamp": "2018-01-20 10:35:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.546e-5,
+        "cryptoTimestamp": "2018-01-20 10:40:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.562e-5,
+        "cryptoTimestamp": "2018-01-20 10:45:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.548e-5,
+        "cryptoTimestamp": "2018-01-20 10:50:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.546e-5,
+        "cryptoTimestamp": "2018-01-20 10:55:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.587e-5,
+        "cryptoTimestamp": "2018-01-20 11:00:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.566e-5,
+        "cryptoTimestamp": "2018-01-20 11:05:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.547e-5,
+        "cryptoTimestamp": "2018-01-20 11:10:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.563e-5,
+        "cryptoTimestamp": "2018-01-20 11:15:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.574e-5,
+        "cryptoTimestamp": "2018-01-20 11:20:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.568e-5,
+        "cryptoTimestamp": "2018-01-20 11:25:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.57e-5,
+        "cryptoTimestamp": "2018-01-20 11:30:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.565e-5,
+        "cryptoTimestamp": "2018-01-20 11:35:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.565e-5,
+        "cryptoTimestamp": "2018-01-20 11:40:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.555e-5,
+        "cryptoTimestamp": "2018-01-20 11:45:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.557e-5,
+        "cryptoTimestamp": "2018-01-20 11:50:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.557e-5,
+        "cryptoTimestamp": "2018-01-20 11:55:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.559e-5,
+        "cryptoTimestamp": "2018-01-20 12:00:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.564e-5,
+        "cryptoTimestamp": "2018-01-20 12:05:00"
+    },
+    {
+        "cryptoCurrency": "DNT",
+        "cryptoValue": 1.576e-5,
+        "cryptoTimestamp": "2018-01-20 12:10:00"
     }
 ]
