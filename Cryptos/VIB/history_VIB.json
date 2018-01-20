@@ -104743,5 +104743,725 @@
         "cryptoCurrency": "VIB",
         "cryptoValue": 3.039e-5,
         "cryptoTimestamp": "2018-01-20 12:40:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.077e-5,
+        "cryptoTimestamp": "2018-01-20 12:45:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.077e-5,
+        "cryptoTimestamp": "2018-01-20 12:50:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.075e-5,
+        "cryptoTimestamp": "2018-01-20 12:55:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.057e-5,
+        "cryptoTimestamp": "2018-01-20 13:00:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.057e-5,
+        "cryptoTimestamp": "2018-01-20 13:05:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.073e-5,
+        "cryptoTimestamp": "2018-01-20 13:10:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.073e-5,
+        "cryptoTimestamp": "2018-01-20 13:15:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.064e-5,
+        "cryptoTimestamp": "2018-01-20 13:20:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.064e-5,
+        "cryptoTimestamp": "2018-01-20 13:25:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.065e-5,
+        "cryptoTimestamp": "2018-01-20 13:30:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.108e-5,
+        "cryptoTimestamp": "2018-01-20 13:35:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.079e-5,
+        "cryptoTimestamp": "2018-01-20 13:40:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.079e-5,
+        "cryptoTimestamp": "2018-01-20 13:45:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.079e-5,
+        "cryptoTimestamp": "2018-01-20 13:50:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.081e-5,
+        "cryptoTimestamp": "2018-01-20 13:55:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.088e-5,
+        "cryptoTimestamp": "2018-01-20 14:00:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.1e-5,
+        "cryptoTimestamp": "2018-01-20 14:05:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.064e-5,
+        "cryptoTimestamp": "2018-01-20 14:10:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.05e-5,
+        "cryptoTimestamp": "2018-01-20 14:15:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.072e-5,
+        "cryptoTimestamp": "2018-01-20 14:20:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.072e-5,
+        "cryptoTimestamp": "2018-01-20 14:25:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.105e-5,
+        "cryptoTimestamp": "2018-01-20 14:30:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.105e-5,
+        "cryptoTimestamp": "2018-01-20 14:35:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.12e-5,
+        "cryptoTimestamp": "2018-01-20 14:40:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.105e-5,
+        "cryptoTimestamp": "2018-01-20 14:45:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.135e-5,
+        "cryptoTimestamp": "2018-01-20 14:50:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.108e-5,
+        "cryptoTimestamp": "2018-01-20 14:55:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.108e-5,
+        "cryptoTimestamp": "2018-01-20 15:00:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.106e-5,
+        "cryptoTimestamp": "2018-01-20 15:05:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.1e-5,
+        "cryptoTimestamp": "2018-01-20 15:10:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.08e-5,
+        "cryptoTimestamp": "2018-01-20 15:15:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.081e-5,
+        "cryptoTimestamp": "2018-01-20 15:20:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.081e-5,
+        "cryptoTimestamp": "2018-01-20 15:25:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.081e-5,
+        "cryptoTimestamp": "2018-01-20 15:30:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.081e-5,
+        "cryptoTimestamp": "2018-01-20 15:35:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.082e-5,
+        "cryptoTimestamp": "2018-01-20 15:40:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.069e-5,
+        "cryptoTimestamp": "2018-01-20 15:45:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.082e-5,
+        "cryptoTimestamp": "2018-01-20 15:50:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.067e-5,
+        "cryptoTimestamp": "2018-01-20 15:55:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.004e-5,
+        "cryptoTimestamp": "2018-01-20 16:00:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.044e-5,
+        "cryptoTimestamp": "2018-01-20 16:05:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.048e-5,
+        "cryptoTimestamp": "2018-01-20 16:10:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.067e-5,
+        "cryptoTimestamp": "2018-01-20 16:15:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.051e-5,
+        "cryptoTimestamp": "2018-01-20 16:20:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.051e-5,
+        "cryptoTimestamp": "2018-01-20 16:25:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.082e-5,
+        "cryptoTimestamp": "2018-01-20 16:30:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.082e-5,
+        "cryptoTimestamp": "2018-01-20 16:35:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.1e-5,
+        "cryptoTimestamp": "2018-01-20 16:40:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.087e-5,
+        "cryptoTimestamp": "2018-01-20 16:45:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.116e-5,
+        "cryptoTimestamp": "2018-01-20 16:50:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.125e-5,
+        "cryptoTimestamp": "2018-01-20 16:55:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.131e-5,
+        "cryptoTimestamp": "2018-01-20 17:00:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.131e-5,
+        "cryptoTimestamp": "2018-01-20 17:05:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.131e-5,
+        "cryptoTimestamp": "2018-01-20 17:10:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.14e-5,
+        "cryptoTimestamp": "2018-01-20 17:15:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.147e-5,
+        "cryptoTimestamp": "2018-01-20 17:20:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.141e-5,
+        "cryptoTimestamp": "2018-01-20 17:25:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.14e-5,
+        "cryptoTimestamp": "2018-01-20 17:30:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.15e-5,
+        "cryptoTimestamp": "2018-01-20 17:35:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.14e-5,
+        "cryptoTimestamp": "2018-01-20 17:40:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.182e-5,
+        "cryptoTimestamp": "2018-01-20 17:45:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.182e-5,
+        "cryptoTimestamp": "2018-01-20 17:50:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.17e-5,
+        "cryptoTimestamp": "2018-01-20 17:55:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.17e-5,
+        "cryptoTimestamp": "2018-01-20 18:00:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.184e-5,
+        "cryptoTimestamp": "2018-01-20 18:05:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.175e-5,
+        "cryptoTimestamp": "2018-01-20 18:10:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.17e-5,
+        "cryptoTimestamp": "2018-01-20 18:15:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.196e-5,
+        "cryptoTimestamp": "2018-01-20 18:20:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.196e-5,
+        "cryptoTimestamp": "2018-01-20 18:25:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.228e-5,
+        "cryptoTimestamp": "2018-01-20 18:30:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.202e-5,
+        "cryptoTimestamp": "2018-01-20 18:35:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.24e-5,
+        "cryptoTimestamp": "2018-01-20 18:40:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.24e-5,
+        "cryptoTimestamp": "2018-01-20 18:45:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.193e-5,
+        "cryptoTimestamp": "2018-01-20 18:50:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.2e-5,
+        "cryptoTimestamp": "2018-01-20 18:55:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.184e-5,
+        "cryptoTimestamp": "2018-01-20 19:00:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.23e-5,
+        "cryptoTimestamp": "2018-01-20 19:05:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.235e-5,
+        "cryptoTimestamp": "2018-01-20 19:10:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.231e-5,
+        "cryptoTimestamp": "2018-01-20 19:15:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.21e-5,
+        "cryptoTimestamp": "2018-01-20 19:20:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.24e-5,
+        "cryptoTimestamp": "2018-01-20 19:25:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.236e-5,
+        "cryptoTimestamp": "2018-01-20 19:30:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.234e-5,
+        "cryptoTimestamp": "2018-01-20 19:35:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.197e-5,
+        "cryptoTimestamp": "2018-01-20 19:40:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.235e-5,
+        "cryptoTimestamp": "2018-01-20 19:45:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.236e-5,
+        "cryptoTimestamp": "2018-01-20 19:50:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.236e-5,
+        "cryptoTimestamp": "2018-01-20 19:55:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.25e-5,
+        "cryptoTimestamp": "2018-01-20 20:00:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.25e-5,
+        "cryptoTimestamp": "2018-01-20 20:05:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.236e-5,
+        "cryptoTimestamp": "2018-01-20 20:10:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.2e-5,
+        "cryptoTimestamp": "2018-01-20 20:15:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.201e-5,
+        "cryptoTimestamp": "2018-01-20 20:20:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.15e-5,
+        "cryptoTimestamp": "2018-01-20 20:25:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.17e-5,
+        "cryptoTimestamp": "2018-01-20 20:30:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.169e-5,
+        "cryptoTimestamp": "2018-01-20 20:35:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.17e-5,
+        "cryptoTimestamp": "2018-01-20 20:40:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.2e-5,
+        "cryptoTimestamp": "2018-01-20 20:45:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.224e-5,
+        "cryptoTimestamp": "2018-01-20 20:50:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.177e-5,
+        "cryptoTimestamp": "2018-01-20 20:55:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.176e-5,
+        "cryptoTimestamp": "2018-01-20 21:00:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.171e-5,
+        "cryptoTimestamp": "2018-01-20 21:05:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.169e-5,
+        "cryptoTimestamp": "2018-01-20 21:10:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.117e-5,
+        "cryptoTimestamp": "2018-01-20 21:15:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.154e-5,
+        "cryptoTimestamp": "2018-01-20 21:20:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.153e-5,
+        "cryptoTimestamp": "2018-01-20 21:25:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.153e-5,
+        "cryptoTimestamp": "2018-01-20 21:30:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.152e-5,
+        "cryptoTimestamp": "2018-01-20 21:35:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.149e-5,
+        "cryptoTimestamp": "2018-01-20 21:40:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.149e-5,
+        "cryptoTimestamp": "2018-01-20 21:45:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.129e-5,
+        "cryptoTimestamp": "2018-01-20 21:50:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.129e-5,
+        "cryptoTimestamp": "2018-01-20 21:55:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.129e-5,
+        "cryptoTimestamp": "2018-01-20 22:00:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.15e-5,
+        "cryptoTimestamp": "2018-01-20 22:05:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.213e-5,
+        "cryptoTimestamp": "2018-01-20 22:10:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.189e-5,
+        "cryptoTimestamp": "2018-01-20 22:15:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.116e-5,
+        "cryptoTimestamp": "2018-01-20 22:20:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.107e-5,
+        "cryptoTimestamp": "2018-01-20 22:25:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.107e-5,
+        "cryptoTimestamp": "2018-01-20 22:30:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.114e-5,
+        "cryptoTimestamp": "2018-01-20 22:35:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.106e-5,
+        "cryptoTimestamp": "2018-01-20 22:40:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.114e-5,
+        "cryptoTimestamp": "2018-01-20 22:45:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.114e-5,
+        "cryptoTimestamp": "2018-01-20 22:50:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.1e-5,
+        "cryptoTimestamp": "2018-01-20 22:55:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.114e-5,
+        "cryptoTimestamp": "2018-01-20 23:00:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.115e-5,
+        "cryptoTimestamp": "2018-01-20 23:05:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.064e-5,
+        "cryptoTimestamp": "2018-01-20 23:10:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.105e-5,
+        "cryptoTimestamp": "2018-01-20 23:15:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.105e-5,
+        "cryptoTimestamp": "2018-01-20 23:20:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.106e-5,
+        "cryptoTimestamp": "2018-01-20 23:25:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.105e-5,
+        "cryptoTimestamp": "2018-01-20 23:30:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.063e-5,
+        "cryptoTimestamp": "2018-01-20 23:35:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.063e-5,
+        "cryptoTimestamp": "2018-01-20 23:40:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.125e-5,
+        "cryptoTimestamp": "2018-01-20 23:45:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.118e-5,
+        "cryptoTimestamp": "2018-01-20 23:50:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.118e-5,
+        "cryptoTimestamp": "2018-01-20 23:55:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.133e-5,
+        "cryptoTimestamp": "2018-01-21 00:00:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.117e-5,
+        "cryptoTimestamp": "2018-01-21 00:05:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.133e-5,
+        "cryptoTimestamp": "2018-01-21 00:10:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.12e-5,
+        "cryptoTimestamp": "2018-01-21 00:15:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.12e-5,
+        "cryptoTimestamp": "2018-01-21 00:20:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.128e-5,
+        "cryptoTimestamp": "2018-01-21 00:25:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.124e-5,
+        "cryptoTimestamp": "2018-01-21 00:30:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.133e-5,
+        "cryptoTimestamp": "2018-01-21 00:35:00"
+    },
+    {
+        "cryptoCurrency": "VIB",
+        "cryptoValue": 3.124e-5,
+        "cryptoTimestamp": "2018-01-21 00:40:00"
     }
 ]
