@@ -73385,4 +73385,724 @@
     <cryptoValue>0.0004405</cryptoValue>
     <cryptoTimestamp>2018-01-20 00:15:00</cryptoTimestamp>
   </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00044197</cryptoValue>
+    <cryptoTimestamp>2018-01-20 00:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043832</cryptoValue>
+    <cryptoTimestamp>2018-01-20 00:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043832</cryptoValue>
+    <cryptoTimestamp>2018-01-20 00:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00044182</cryptoValue>
+    <cryptoTimestamp>2018-01-20 00:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00044029</cryptoValue>
+    <cryptoTimestamp>2018-01-20 00:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043832</cryptoValue>
+    <cryptoTimestamp>2018-01-20 00:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.0004403</cryptoValue>
+    <cryptoTimestamp>2018-01-20 00:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043829</cryptoValue>
+    <cryptoTimestamp>2018-01-20 00:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00044029</cryptoValue>
+    <cryptoTimestamp>2018-01-20 01:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043504</cryptoValue>
+    <cryptoTimestamp>2018-01-20 01:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043504</cryptoValue>
+    <cryptoTimestamp>2018-01-20 01:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.000434</cryptoValue>
+    <cryptoTimestamp>2018-01-20 01:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043298</cryptoValue>
+    <cryptoTimestamp>2018-01-20 01:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043158</cryptoValue>
+    <cryptoTimestamp>2018-01-20 01:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.000434</cryptoValue>
+    <cryptoTimestamp>2018-01-20 01:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043938</cryptoValue>
+    <cryptoTimestamp>2018-01-20 01:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043425</cryptoValue>
+    <cryptoTimestamp>2018-01-20 01:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043399</cryptoValue>
+    <cryptoTimestamp>2018-01-20 01:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043425</cryptoValue>
+    <cryptoTimestamp>2018-01-20 01:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043435</cryptoValue>
+    <cryptoTimestamp>2018-01-20 01:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043069</cryptoValue>
+    <cryptoTimestamp>2018-01-20 02:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043061</cryptoValue>
+    <cryptoTimestamp>2018-01-20 02:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043236</cryptoValue>
+    <cryptoTimestamp>2018-01-20 02:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043239</cryptoValue>
+    <cryptoTimestamp>2018-01-20 02:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043239</cryptoValue>
+    <cryptoTimestamp>2018-01-20 02:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.0004324</cryptoValue>
+    <cryptoTimestamp>2018-01-20 02:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043241</cryptoValue>
+    <cryptoTimestamp>2018-01-20 02:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.0004311</cryptoValue>
+    <cryptoTimestamp>2018-01-20 02:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.000431</cryptoValue>
+    <cryptoTimestamp>2018-01-20 02:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043241</cryptoValue>
+    <cryptoTimestamp>2018-01-20 02:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043241</cryptoValue>
+    <cryptoTimestamp>2018-01-20 02:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043266</cryptoValue>
+    <cryptoTimestamp>2018-01-20 02:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043264</cryptoValue>
+    <cryptoTimestamp>2018-01-20 03:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043262</cryptoValue>
+    <cryptoTimestamp>2018-01-20 03:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043258</cryptoValue>
+    <cryptoTimestamp>2018-01-20 03:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.0004291</cryptoValue>
+    <cryptoTimestamp>2018-01-20 03:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00042629</cryptoValue>
+    <cryptoTimestamp>2018-01-20 03:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00042653</cryptoValue>
+    <cryptoTimestamp>2018-01-20 03:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.0004266</cryptoValue>
+    <cryptoTimestamp>2018-01-20 03:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043183</cryptoValue>
+    <cryptoTimestamp>2018-01-20 03:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.0004319</cryptoValue>
+    <cryptoTimestamp>2018-01-20 03:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043263</cryptoValue>
+    <cryptoTimestamp>2018-01-20 03:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043001</cryptoValue>
+    <cryptoTimestamp>2018-01-20 03:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043002</cryptoValue>
+    <cryptoTimestamp>2018-01-20 03:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043263</cryptoValue>
+    <cryptoTimestamp>2018-01-20 04:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043001</cryptoValue>
+    <cryptoTimestamp>2018-01-20 04:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043001</cryptoValue>
+    <cryptoTimestamp>2018-01-20 04:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00043001</cryptoValue>
+    <cryptoTimestamp>2018-01-20 04:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00042686</cryptoValue>
+    <cryptoTimestamp>2018-01-20 04:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00042997</cryptoValue>
+    <cryptoTimestamp>2018-01-20 04:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00042995</cryptoValue>
+    <cryptoTimestamp>2018-01-20 04:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00042522</cryptoValue>
+    <cryptoTimestamp>2018-01-20 04:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00042523</cryptoValue>
+    <cryptoTimestamp>2018-01-20 04:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.000425</cryptoValue>
+    <cryptoTimestamp>2018-01-20 04:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00042017</cryptoValue>
+    <cryptoTimestamp>2018-01-20 04:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00042414</cryptoValue>
+    <cryptoTimestamp>2018-01-20 04:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00042438</cryptoValue>
+    <cryptoTimestamp>2018-01-20 05:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00042441</cryptoValue>
+    <cryptoTimestamp>2018-01-20 05:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00042441</cryptoValue>
+    <cryptoTimestamp>2018-01-20 05:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00042001</cryptoValue>
+    <cryptoTimestamp>2018-01-20 05:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00042451</cryptoValue>
+    <cryptoTimestamp>2018-01-20 05:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00042451</cryptoValue>
+    <cryptoTimestamp>2018-01-20 05:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00042454</cryptoValue>
+    <cryptoTimestamp>2018-01-20 05:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00042451</cryptoValue>
+    <cryptoTimestamp>2018-01-20 05:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00042454</cryptoValue>
+    <cryptoTimestamp>2018-01-20 05:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00042448</cryptoValue>
+    <cryptoTimestamp>2018-01-20 05:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.0004195</cryptoValue>
+    <cryptoTimestamp>2018-01-20 05:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00041931</cryptoValue>
+    <cryptoTimestamp>2018-01-20 05:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040893</cryptoValue>
+    <cryptoTimestamp>2018-01-20 06:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040497</cryptoValue>
+    <cryptoTimestamp>2018-01-20 06:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00039983</cryptoValue>
+    <cryptoTimestamp>2018-01-20 06:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00039979</cryptoValue>
+    <cryptoTimestamp>2018-01-20 06:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040003</cryptoValue>
+    <cryptoTimestamp>2018-01-20 06:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040003</cryptoValue>
+    <cryptoTimestamp>2018-01-20 06:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00039998</cryptoValue>
+    <cryptoTimestamp>2018-01-20 06:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00039997</cryptoValue>
+    <cryptoTimestamp>2018-01-20 06:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00039569</cryptoValue>
+    <cryptoTimestamp>2018-01-20 06:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00039983</cryptoValue>
+    <cryptoTimestamp>2018-01-20 06:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00039981</cryptoValue>
+    <cryptoTimestamp>2018-01-20 06:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.0003945</cryptoValue>
+    <cryptoTimestamp>2018-01-20 06:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00039972</cryptoValue>
+    <cryptoTimestamp>2018-01-20 07:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.0004019</cryptoValue>
+    <cryptoTimestamp>2018-01-20 07:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.0004044</cryptoValue>
+    <cryptoTimestamp>2018-01-20 07:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00041525</cryptoValue>
+    <cryptoTimestamp>2018-01-20 07:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00041999</cryptoValue>
+    <cryptoTimestamp>2018-01-20 07:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.0004283</cryptoValue>
+    <cryptoTimestamp>2018-01-20 07:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00042454</cryptoValue>
+    <cryptoTimestamp>2018-01-20 07:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00042454</cryptoValue>
+    <cryptoTimestamp>2018-01-20 07:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00042</cryptoValue>
+    <cryptoTimestamp>2018-01-20 07:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00041943</cryptoValue>
+    <cryptoTimestamp>2018-01-20 07:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.0004124</cryptoValue>
+    <cryptoTimestamp>2018-01-20 07:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00041861</cryptoValue>
+    <cryptoTimestamp>2018-01-20 07:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00041862</cryptoValue>
+    <cryptoTimestamp>2018-01-20 08:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00041858</cryptoValue>
+    <cryptoTimestamp>2018-01-20 08:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00041298</cryptoValue>
+    <cryptoTimestamp>2018-01-20 08:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00041859</cryptoValue>
+    <cryptoTimestamp>2018-01-20 08:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00041299</cryptoValue>
+    <cryptoTimestamp>2018-01-20 08:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00041005</cryptoValue>
+    <cryptoTimestamp>2018-01-20 08:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00041296</cryptoValue>
+    <cryptoTimestamp>2018-01-20 08:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00041316</cryptoValue>
+    <cryptoTimestamp>2018-01-20 08:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.0004125</cryptoValue>
+    <cryptoTimestamp>2018-01-20 08:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.0004125</cryptoValue>
+    <cryptoTimestamp>2018-01-20 08:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00041311</cryptoValue>
+    <cryptoTimestamp>2018-01-20 08:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00041025</cryptoValue>
+    <cryptoTimestamp>2018-01-20 08:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.0004102</cryptoValue>
+    <cryptoTimestamp>2018-01-20 09:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00041006</cryptoValue>
+    <cryptoTimestamp>2018-01-20 09:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040999</cryptoValue>
+    <cryptoTimestamp>2018-01-20 09:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040952</cryptoValue>
+    <cryptoTimestamp>2018-01-20 09:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040952</cryptoValue>
+    <cryptoTimestamp>2018-01-20 09:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.0004084</cryptoValue>
+    <cryptoTimestamp>2018-01-20 09:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040841</cryptoValue>
+    <cryptoTimestamp>2018-01-20 09:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040651</cryptoValue>
+    <cryptoTimestamp>2018-01-20 09:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040744</cryptoValue>
+    <cryptoTimestamp>2018-01-20 09:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040744</cryptoValue>
+    <cryptoTimestamp>2018-01-20 09:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040623</cryptoValue>
+    <cryptoTimestamp>2018-01-20 09:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040623</cryptoValue>
+    <cryptoTimestamp>2018-01-20 09:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.0004044</cryptoValue>
+    <cryptoTimestamp>2018-01-20 10:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.000404</cryptoValue>
+    <cryptoTimestamp>2018-01-20 10:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.0004044</cryptoValue>
+    <cryptoTimestamp>2018-01-20 10:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040443</cryptoValue>
+    <cryptoTimestamp>2018-01-20 10:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040452</cryptoValue>
+    <cryptoTimestamp>2018-01-20 10:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040501</cryptoValue>
+    <cryptoTimestamp>2018-01-20 10:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040501</cryptoValue>
+    <cryptoTimestamp>2018-01-20 10:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040501</cryptoValue>
+    <cryptoTimestamp>2018-01-20 10:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040501</cryptoValue>
+    <cryptoTimestamp>2018-01-20 10:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.0004044</cryptoValue>
+    <cryptoTimestamp>2018-01-20 10:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040501</cryptoValue>
+    <cryptoTimestamp>2018-01-20 10:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040445</cryptoValue>
+    <cryptoTimestamp>2018-01-20 10:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.000405</cryptoValue>
+    <cryptoTimestamp>2018-01-20 11:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040999</cryptoValue>
+    <cryptoTimestamp>2018-01-20 11:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.0004099</cryptoValue>
+    <cryptoTimestamp>2018-01-20 11:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00041006</cryptoValue>
+    <cryptoTimestamp>2018-01-20 11:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00041006</cryptoValue>
+    <cryptoTimestamp>2018-01-20 11:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00041006</cryptoValue>
+    <cryptoTimestamp>2018-01-20 11:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040686</cryptoValue>
+    <cryptoTimestamp>2018-01-20 11:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.0004065</cryptoValue>
+    <cryptoTimestamp>2018-01-20 11:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.0004065</cryptoValue>
+    <cryptoTimestamp>2018-01-20 11:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.0004065</cryptoValue>
+    <cryptoTimestamp>2018-01-20 11:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.0004065</cryptoValue>
+    <cryptoTimestamp>2018-01-20 11:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040445</cryptoValue>
+    <cryptoTimestamp>2018-01-20 11:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040631</cryptoValue>
+    <cryptoTimestamp>2018-01-20 12:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.0004069</cryptoValue>
+    <cryptoTimestamp>2018-01-20 12:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040432</cryptoValue>
+    <cryptoTimestamp>2018-01-20 12:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>ENG</cryptoCurrency>
+    <cryptoValue>0.00040199</cryptoValue>
+    <cryptoTimestamp>2018-01-20 12:15:00</cryptoTimestamp>
+  </item>
 </item>
