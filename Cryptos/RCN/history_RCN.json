@@ -106008,5 +106008,720 @@
         "cryptoCurrency": "RCN",
         "cryptoValue": 2.654e-5,
         "cryptoTimestamp": "2018-01-20 00:35:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.629e-5,
+        "cryptoTimestamp": "2018-01-20 00:40:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.629e-5,
+        "cryptoTimestamp": "2018-01-20 00:45:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.643e-5,
+        "cryptoTimestamp": "2018-01-20 00:50:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.63e-5,
+        "cryptoTimestamp": "2018-01-20 00:55:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.643e-5,
+        "cryptoTimestamp": "2018-01-20 01:00:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.637e-5,
+        "cryptoTimestamp": "2018-01-20 01:05:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.644e-5,
+        "cryptoTimestamp": "2018-01-20 01:10:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.635e-5,
+        "cryptoTimestamp": "2018-01-20 01:15:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.636e-5,
+        "cryptoTimestamp": "2018-01-20 01:20:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.596e-5,
+        "cryptoTimestamp": "2018-01-20 01:25:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.591e-5,
+        "cryptoTimestamp": "2018-01-20 01:30:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.592e-5,
+        "cryptoTimestamp": "2018-01-20 01:35:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.619e-5,
+        "cryptoTimestamp": "2018-01-20 01:40:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.626e-5,
+        "cryptoTimestamp": "2018-01-20 01:45:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.626e-5,
+        "cryptoTimestamp": "2018-01-20 01:50:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.596e-5,
+        "cryptoTimestamp": "2018-01-20 01:55:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.637e-5,
+        "cryptoTimestamp": "2018-01-20 02:00:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.619e-5,
+        "cryptoTimestamp": "2018-01-20 02:05:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.637e-5,
+        "cryptoTimestamp": "2018-01-20 02:10:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.627e-5,
+        "cryptoTimestamp": "2018-01-20 02:15:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.649e-5,
+        "cryptoTimestamp": "2018-01-20 02:20:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.642e-5,
+        "cryptoTimestamp": "2018-01-20 02:25:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.621e-5,
+        "cryptoTimestamp": "2018-01-20 02:30:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.62e-5,
+        "cryptoTimestamp": "2018-01-20 02:35:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.617e-5,
+        "cryptoTimestamp": "2018-01-20 02:40:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.637e-5,
+        "cryptoTimestamp": "2018-01-20 02:45:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.621e-5,
+        "cryptoTimestamp": "2018-01-20 02:50:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.662e-5,
+        "cryptoTimestamp": "2018-01-20 02:55:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.662e-5,
+        "cryptoTimestamp": "2018-01-20 03:00:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.651e-5,
+        "cryptoTimestamp": "2018-01-20 03:05:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.65e-5,
+        "cryptoTimestamp": "2018-01-20 03:10:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.649e-5,
+        "cryptoTimestamp": "2018-01-20 03:15:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.627e-5,
+        "cryptoTimestamp": "2018-01-20 03:20:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.647e-5,
+        "cryptoTimestamp": "2018-01-20 03:25:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.61e-5,
+        "cryptoTimestamp": "2018-01-20 03:30:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.631e-5,
+        "cryptoTimestamp": "2018-01-20 03:35:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.611e-5,
+        "cryptoTimestamp": "2018-01-20 03:40:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.632e-5,
+        "cryptoTimestamp": "2018-01-20 03:45:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.612e-5,
+        "cryptoTimestamp": "2018-01-20 03:50:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.612e-5,
+        "cryptoTimestamp": "2018-01-20 03:55:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.623e-5,
+        "cryptoTimestamp": "2018-01-20 04:00:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.612e-5,
+        "cryptoTimestamp": "2018-01-20 04:05:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.593e-5,
+        "cryptoTimestamp": "2018-01-20 04:10:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.612e-5,
+        "cryptoTimestamp": "2018-01-20 04:15:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.601e-5,
+        "cryptoTimestamp": "2018-01-20 04:20:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.612e-5,
+        "cryptoTimestamp": "2018-01-20 04:25:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.612e-5,
+        "cryptoTimestamp": "2018-01-20 04:30:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.612e-5,
+        "cryptoTimestamp": "2018-01-20 04:35:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.607e-5,
+        "cryptoTimestamp": "2018-01-20 04:40:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.605e-5,
+        "cryptoTimestamp": "2018-01-20 04:45:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.603e-5,
+        "cryptoTimestamp": "2018-01-20 04:50:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.595e-5,
+        "cryptoTimestamp": "2018-01-20 04:55:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.596e-5,
+        "cryptoTimestamp": "2018-01-20 05:00:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.603e-5,
+        "cryptoTimestamp": "2018-01-20 05:05:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.592e-5,
+        "cryptoTimestamp": "2018-01-20 05:10:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.592e-5,
+        "cryptoTimestamp": "2018-01-20 05:15:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.606e-5,
+        "cryptoTimestamp": "2018-01-20 05:20:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.604e-5,
+        "cryptoTimestamp": "2018-01-20 05:25:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.577e-5,
+        "cryptoTimestamp": "2018-01-20 05:30:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.602e-5,
+        "cryptoTimestamp": "2018-01-20 05:35:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.603e-5,
+        "cryptoTimestamp": "2018-01-20 05:40:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.576e-5,
+        "cryptoTimestamp": "2018-01-20 05:45:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.53e-5,
+        "cryptoTimestamp": "2018-01-20 05:50:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.537e-5,
+        "cryptoTimestamp": "2018-01-20 05:55:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.557e-5,
+        "cryptoTimestamp": "2018-01-20 06:00:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.478e-5,
+        "cryptoTimestamp": "2018-01-20 06:05:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.389e-5,
+        "cryptoTimestamp": "2018-01-20 06:10:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.35e-5,
+        "cryptoTimestamp": "2018-01-20 06:15:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.372e-5,
+        "cryptoTimestamp": "2018-01-20 06:20:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.423e-5,
+        "cryptoTimestamp": "2018-01-20 06:25:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.426e-5,
+        "cryptoTimestamp": "2018-01-20 06:30:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.435e-5,
+        "cryptoTimestamp": "2018-01-20 06:35:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.43e-5,
+        "cryptoTimestamp": "2018-01-20 06:40:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.426e-5,
+        "cryptoTimestamp": "2018-01-20 06:45:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.395e-5,
+        "cryptoTimestamp": "2018-01-20 06:50:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.418e-5,
+        "cryptoTimestamp": "2018-01-20 06:55:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.391e-5,
+        "cryptoTimestamp": "2018-01-20 07:00:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.403e-5,
+        "cryptoTimestamp": "2018-01-20 07:05:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.403e-5,
+        "cryptoTimestamp": "2018-01-20 07:10:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.422e-5,
+        "cryptoTimestamp": "2018-01-20 07:15:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.436e-5,
+        "cryptoTimestamp": "2018-01-20 07:20:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.422e-5,
+        "cryptoTimestamp": "2018-01-20 07:25:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.419e-5,
+        "cryptoTimestamp": "2018-01-20 07:30:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.407e-5,
+        "cryptoTimestamp": "2018-01-20 07:35:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.436e-5,
+        "cryptoTimestamp": "2018-01-20 07:40:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.437e-5,
+        "cryptoTimestamp": "2018-01-20 07:45:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.439e-5,
+        "cryptoTimestamp": "2018-01-20 07:50:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.452e-5,
+        "cryptoTimestamp": "2018-01-20 07:55:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.468e-5,
+        "cryptoTimestamp": "2018-01-20 08:00:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.471e-5,
+        "cryptoTimestamp": "2018-01-20 08:05:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.473e-5,
+        "cryptoTimestamp": "2018-01-20 08:10:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.488e-5,
+        "cryptoTimestamp": "2018-01-20 08:15:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.474e-5,
+        "cryptoTimestamp": "2018-01-20 08:20:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.46e-5,
+        "cryptoTimestamp": "2018-01-20 08:25:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.474e-5,
+        "cryptoTimestamp": "2018-01-20 08:30:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.452e-5,
+        "cryptoTimestamp": "2018-01-20 08:35:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.452e-5,
+        "cryptoTimestamp": "2018-01-20 08:40:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.453e-5,
+        "cryptoTimestamp": "2018-01-20 08:45:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.452e-5,
+        "cryptoTimestamp": "2018-01-20 08:50:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.428e-5,
+        "cryptoTimestamp": "2018-01-20 08:55:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.45e-5,
+        "cryptoTimestamp": "2018-01-20 09:00:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.448e-5,
+        "cryptoTimestamp": "2018-01-20 09:05:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.429e-5,
+        "cryptoTimestamp": "2018-01-20 09:10:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.427e-5,
+        "cryptoTimestamp": "2018-01-20 09:15:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.423e-5,
+        "cryptoTimestamp": "2018-01-20 09:20:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.435e-5,
+        "cryptoTimestamp": "2018-01-20 09:25:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.428e-5,
+        "cryptoTimestamp": "2018-01-20 09:30:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.425e-5,
+        "cryptoTimestamp": "2018-01-20 09:35:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.421e-5,
+        "cryptoTimestamp": "2018-01-20 09:40:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.422e-5,
+        "cryptoTimestamp": "2018-01-20 09:45:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.442e-5,
+        "cryptoTimestamp": "2018-01-20 09:50:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.426e-5,
+        "cryptoTimestamp": "2018-01-20 09:55:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.409e-5,
+        "cryptoTimestamp": "2018-01-20 10:00:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.444e-5,
+        "cryptoTimestamp": "2018-01-20 10:05:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.443e-5,
+        "cryptoTimestamp": "2018-01-20 10:10:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.427e-5,
+        "cryptoTimestamp": "2018-01-20 10:15:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.426e-5,
+        "cryptoTimestamp": "2018-01-20 10:20:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.426e-5,
+        "cryptoTimestamp": "2018-01-20 10:25:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.445e-5,
+        "cryptoTimestamp": "2018-01-20 10:30:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.444e-5,
+        "cryptoTimestamp": "2018-01-20 10:35:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.444e-5,
+        "cryptoTimestamp": "2018-01-20 10:40:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.444e-5,
+        "cryptoTimestamp": "2018-01-20 10:45:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.438e-5,
+        "cryptoTimestamp": "2018-01-20 10:50:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.445e-5,
+        "cryptoTimestamp": "2018-01-20 10:55:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.413e-5,
+        "cryptoTimestamp": "2018-01-20 11:00:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.431e-5,
+        "cryptoTimestamp": "2018-01-20 11:05:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.402e-5,
+        "cryptoTimestamp": "2018-01-20 11:10:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.429e-5,
+        "cryptoTimestamp": "2018-01-20 11:15:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.442e-5,
+        "cryptoTimestamp": "2018-01-20 11:20:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.457e-5,
+        "cryptoTimestamp": "2018-01-20 11:25:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.45e-5,
+        "cryptoTimestamp": "2018-01-20 11:30:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.435e-5,
+        "cryptoTimestamp": "2018-01-20 11:35:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.441e-5,
+        "cryptoTimestamp": "2018-01-20 11:40:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.466e-5,
+        "cryptoTimestamp": "2018-01-20 11:45:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.469e-5,
+        "cryptoTimestamp": "2018-01-20 11:50:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.445e-5,
+        "cryptoTimestamp": "2018-01-20 11:55:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.446e-5,
+        "cryptoTimestamp": "2018-01-20 12:00:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.46e-5,
+        "cryptoTimestamp": "2018-01-20 12:05:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.46e-5,
+        "cryptoTimestamp": "2018-01-20 12:10:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.444e-5,
+        "cryptoTimestamp": "2018-01-20 12:15:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.475e-5,
+        "cryptoTimestamp": "2018-01-20 12:20:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.475e-5,
+        "cryptoTimestamp": "2018-01-20 12:25:00"
+    },
+    {
+        "cryptoCurrency": "RCN",
+        "cryptoValue": 2.491e-5,
+        "cryptoTimestamp": "2018-01-20 12:30:00"
     }
 ]
