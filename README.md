@@ -2,7 +2,7 @@
 # CryptoHistory
 Historical data of a few crypto currencies
 
-As it says, it's historical data: from 17-06-2017 till now (21-01-2018 00:45:56) with 5 minutes interval.
+As it says, it's historical data: from 17-06-2017 till now (21-01-2018 12:41:38) with 5 minutes interval.
 
 In CSV, SQL, JSON and XML
 
