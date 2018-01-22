@@ -89345,4 +89345,724 @@
     <cryptoValue>0.017214</cryptoValue>
     <cryptoTimestamp>2018-01-22 00:05:00</cryptoTimestamp>
   </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01718549</cryptoValue>
+    <cryptoTimestamp>2018-01-22 00:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01718549</cryptoValue>
+    <cryptoTimestamp>2018-01-22 00:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01719</cryptoValue>
+    <cryptoTimestamp>2018-01-22 00:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01728789</cryptoValue>
+    <cryptoTimestamp>2018-01-22 00:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01727775</cryptoValue>
+    <cryptoTimestamp>2018-01-22 00:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01719999</cryptoValue>
+    <cryptoTimestamp>2018-01-22 00:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01716378</cryptoValue>
+    <cryptoTimestamp>2018-01-22 00:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01716378</cryptoValue>
+    <cryptoTimestamp>2018-01-22 00:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01719993</cryptoValue>
+    <cryptoTimestamp>2018-01-22 00:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01716378</cryptoValue>
+    <cryptoTimestamp>2018-01-22 00:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01703242</cryptoValue>
+    <cryptoTimestamp>2018-01-22 01:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01700301</cryptoValue>
+    <cryptoTimestamp>2018-01-22 01:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01808507</cryptoValue>
+    <cryptoTimestamp>2018-01-22 01:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01809601</cryptoValue>
+    <cryptoTimestamp>2018-01-22 01:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.0184227</cryptoValue>
+    <cryptoTimestamp>2018-01-22 01:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01822881</cryptoValue>
+    <cryptoTimestamp>2018-01-22 01:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01792021</cryptoValue>
+    <cryptoTimestamp>2018-01-22 01:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01807763</cryptoValue>
+    <cryptoTimestamp>2018-01-22 01:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01855999</cryptoValue>
+    <cryptoTimestamp>2018-01-22 01:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01836389</cryptoValue>
+    <cryptoTimestamp>2018-01-22 01:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01841875</cryptoValue>
+    <cryptoTimestamp>2018-01-22 01:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01860115</cryptoValue>
+    <cryptoTimestamp>2018-01-22 01:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01883481</cryptoValue>
+    <cryptoTimestamp>2018-01-22 02:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01844008</cryptoValue>
+    <cryptoTimestamp>2018-01-22 02:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01838322</cryptoValue>
+    <cryptoTimestamp>2018-01-22 02:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01856904</cryptoValue>
+    <cryptoTimestamp>2018-01-22 02:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01832599</cryptoValue>
+    <cryptoTimestamp>2018-01-22 02:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01826323</cryptoValue>
+    <cryptoTimestamp>2018-01-22 02:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01854886</cryptoValue>
+    <cryptoTimestamp>2018-01-22 02:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01880001</cryptoValue>
+    <cryptoTimestamp>2018-01-22 02:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01872608</cryptoValue>
+    <cryptoTimestamp>2018-01-22 02:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.018263</cryptoValue>
+    <cryptoTimestamp>2018-01-22 02:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.0182093</cryptoValue>
+    <cryptoTimestamp>2018-01-22 02:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01827898</cryptoValue>
+    <cryptoTimestamp>2018-01-22 02:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01827999</cryptoValue>
+    <cryptoTimestamp>2018-01-22 03:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01818744</cryptoValue>
+    <cryptoTimestamp>2018-01-22 03:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01821417</cryptoValue>
+    <cryptoTimestamp>2018-01-22 03:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01811031</cryptoValue>
+    <cryptoTimestamp>2018-01-22 03:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01838969</cryptoValue>
+    <cryptoTimestamp>2018-01-22 03:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01851599</cryptoValue>
+    <cryptoTimestamp>2018-01-22 03:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01845004</cryptoValue>
+    <cryptoTimestamp>2018-01-22 03:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01833901</cryptoValue>
+    <cryptoTimestamp>2018-01-22 03:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.018706</cryptoValue>
+    <cryptoTimestamp>2018-01-22 03:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01869967</cryptoValue>
+    <cryptoTimestamp>2018-01-22 03:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01859775</cryptoValue>
+    <cryptoTimestamp>2018-01-22 03:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01859773</cryptoValue>
+    <cryptoTimestamp>2018-01-22 03:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01859773</cryptoValue>
+    <cryptoTimestamp>2018-01-22 04:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01816267</cryptoValue>
+    <cryptoTimestamp>2018-01-22 04:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01849966</cryptoValue>
+    <cryptoTimestamp>2018-01-22 04:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.018349</cryptoValue>
+    <cryptoTimestamp>2018-01-22 04:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01844899</cryptoValue>
+    <cryptoTimestamp>2018-01-22 04:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.018445</cryptoValue>
+    <cryptoTimestamp>2018-01-22 04:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01835</cryptoValue>
+    <cryptoTimestamp>2018-01-22 04:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01844996</cryptoValue>
+    <cryptoTimestamp>2018-01-22 04:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.0185975</cryptoValue>
+    <cryptoTimestamp>2018-01-22 04:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01849982</cryptoValue>
+    <cryptoTimestamp>2018-01-22 04:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01864357</cryptoValue>
+    <cryptoTimestamp>2018-01-22 04:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01875</cryptoValue>
+    <cryptoTimestamp>2018-01-22 04:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01843019</cryptoValue>
+    <cryptoTimestamp>2018-01-22 05:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01869901</cryptoValue>
+    <cryptoTimestamp>2018-01-22 05:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01850115</cryptoValue>
+    <cryptoTimestamp>2018-01-22 05:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.0186304</cryptoValue>
+    <cryptoTimestamp>2018-01-22 05:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01870004</cryptoValue>
+    <cryptoTimestamp>2018-01-22 05:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01866835</cryptoValue>
+    <cryptoTimestamp>2018-01-22 05:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01861816</cryptoValue>
+    <cryptoTimestamp>2018-01-22 05:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01888746</cryptoValue>
+    <cryptoTimestamp>2018-01-22 05:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.0186758</cryptoValue>
+    <cryptoTimestamp>2018-01-22 05:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01867401</cryptoValue>
+    <cryptoTimestamp>2018-01-22 05:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.018784</cryptoValue>
+    <cryptoTimestamp>2018-01-22 05:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01864891</cryptoValue>
+    <cryptoTimestamp>2018-01-22 05:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01865935</cryptoValue>
+    <cryptoTimestamp>2018-01-22 06:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01871146</cryptoValue>
+    <cryptoTimestamp>2018-01-22 06:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01863942</cryptoValue>
+    <cryptoTimestamp>2018-01-22 06:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.0186394</cryptoValue>
+    <cryptoTimestamp>2018-01-22 06:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01859003</cryptoValue>
+    <cryptoTimestamp>2018-01-22 06:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01853994</cryptoValue>
+    <cryptoTimestamp>2018-01-22 06:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01848446</cryptoValue>
+    <cryptoTimestamp>2018-01-22 06:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01848796</cryptoValue>
+    <cryptoTimestamp>2018-01-22 06:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.0185177</cryptoValue>
+    <cryptoTimestamp>2018-01-22 06:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01845311</cryptoValue>
+    <cryptoTimestamp>2018-01-22 06:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01851559</cryptoValue>
+    <cryptoTimestamp>2018-01-22 06:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01842622</cryptoValue>
+    <cryptoTimestamp>2018-01-22 06:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.0184</cryptoValue>
+    <cryptoTimestamp>2018-01-22 07:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.0184</cryptoValue>
+    <cryptoTimestamp>2018-01-22 07:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01837987</cryptoValue>
+    <cryptoTimestamp>2018-01-22 07:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01829</cryptoValue>
+    <cryptoTimestamp>2018-01-22 07:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01812532</cryptoValue>
+    <cryptoTimestamp>2018-01-22 07:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01824861</cryptoValue>
+    <cryptoTimestamp>2018-01-22 07:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01812521</cryptoValue>
+    <cryptoTimestamp>2018-01-22 07:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01808876</cryptoValue>
+    <cryptoTimestamp>2018-01-22 07:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01801291</cryptoValue>
+    <cryptoTimestamp>2018-01-22 07:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01796724</cryptoValue>
+    <cryptoTimestamp>2018-01-22 07:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01809578</cryptoValue>
+    <cryptoTimestamp>2018-01-22 07:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01795758</cryptoValue>
+    <cryptoTimestamp>2018-01-22 07:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01801</cryptoValue>
+    <cryptoTimestamp>2018-01-22 08:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01795755</cryptoValue>
+    <cryptoTimestamp>2018-01-22 08:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01789849</cryptoValue>
+    <cryptoTimestamp>2018-01-22 08:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01786775</cryptoValue>
+    <cryptoTimestamp>2018-01-22 08:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.0177736</cryptoValue>
+    <cryptoTimestamp>2018-01-22 08:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01784705</cryptoValue>
+    <cryptoTimestamp>2018-01-22 08:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.0178076</cryptoValue>
+    <cryptoTimestamp>2018-01-22 08:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.0177791</cryptoValue>
+    <cryptoTimestamp>2018-01-22 08:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01782705</cryptoValue>
+    <cryptoTimestamp>2018-01-22 08:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01789799</cryptoValue>
+    <cryptoTimestamp>2018-01-22 08:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01786695</cryptoValue>
+    <cryptoTimestamp>2018-01-22 08:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01786819</cryptoValue>
+    <cryptoTimestamp>2018-01-22 08:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01779585</cryptoValue>
+    <cryptoTimestamp>2018-01-22 09:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01789999</cryptoValue>
+    <cryptoTimestamp>2018-01-22 09:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01799424</cryptoValue>
+    <cryptoTimestamp>2018-01-22 09:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01795202</cryptoValue>
+    <cryptoTimestamp>2018-01-22 09:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01807335</cryptoValue>
+    <cryptoTimestamp>2018-01-22 09:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01803346</cryptoValue>
+    <cryptoTimestamp>2018-01-22 09:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01802589</cryptoValue>
+    <cryptoTimestamp>2018-01-22 09:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.018</cryptoValue>
+    <cryptoTimestamp>2018-01-22 09:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01789208</cryptoValue>
+    <cryptoTimestamp>2018-01-22 09:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01802361</cryptoValue>
+    <cryptoTimestamp>2018-01-22 09:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01802362</cryptoValue>
+    <cryptoTimestamp>2018-01-22 09:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.0179716</cryptoValue>
+    <cryptoTimestamp>2018-01-22 09:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.0179716</cryptoValue>
+    <cryptoTimestamp>2018-01-22 10:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.0180176</cryptoValue>
+    <cryptoTimestamp>2018-01-22 10:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.0180176</cryptoValue>
+    <cryptoTimestamp>2018-01-22 10:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01794722</cryptoValue>
+    <cryptoTimestamp>2018-01-22 10:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01811344</cryptoValue>
+    <cryptoTimestamp>2018-01-22 10:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.0181</cryptoValue>
+    <cryptoTimestamp>2018-01-22 10:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01811344</cryptoValue>
+    <cryptoTimestamp>2018-01-22 10:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01809994</cryptoValue>
+    <cryptoTimestamp>2018-01-22 10:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01809855</cryptoValue>
+    <cryptoTimestamp>2018-01-22 10:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01800101</cryptoValue>
+    <cryptoTimestamp>2018-01-22 10:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01806999</cryptoValue>
+    <cryptoTimestamp>2018-01-22 10:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01815823</cryptoValue>
+    <cryptoTimestamp>2018-01-22 10:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01804604</cryptoValue>
+    <cryptoTimestamp>2018-01-22 11:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.0180469</cryptoValue>
+    <cryptoTimestamp>2018-01-22 11:05:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01804609</cryptoValue>
+    <cryptoTimestamp>2018-01-22 11:10:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01800002</cryptoValue>
+    <cryptoTimestamp>2018-01-22 11:15:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01801744</cryptoValue>
+    <cryptoTimestamp>2018-01-22 11:20:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01803187</cryptoValue>
+    <cryptoTimestamp>2018-01-22 11:25:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01809271</cryptoValue>
+    <cryptoTimestamp>2018-01-22 11:30:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01806888</cryptoValue>
+    <cryptoTimestamp>2018-01-22 11:35:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01802591</cryptoValue>
+    <cryptoTimestamp>2018-01-22 11:40:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01800793</cryptoValue>
+    <cryptoTimestamp>2018-01-22 11:45:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01790919</cryptoValue>
+    <cryptoTimestamp>2018-01-22 11:50:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01790917</cryptoValue>
+    <cryptoTimestamp>2018-01-22 11:55:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01771716</cryptoValue>
+    <cryptoTimestamp>2018-01-22 12:00:00</cryptoTimestamp>
+  </item>
+  <item>
+    <cryptoCurrency>BTG</cryptoCurrency>
+    <cryptoValue>0.01785125</cryptoValue>
+    <cryptoTimestamp>2018-01-22 12:05:00</cryptoTimestamp>
+  </item>
 </item>
